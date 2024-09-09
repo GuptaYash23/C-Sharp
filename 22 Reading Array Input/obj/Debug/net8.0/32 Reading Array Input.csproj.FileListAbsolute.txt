@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\32 Reading Array Input\obj\Debug\net8.0\32 Reading Array Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\32 Reading Array Input\obj\Debug\net8.0\32 Reading Array Input.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\32 Reading Array Input\obj\Debug\net8.0\32 Reading Array Input.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\32 Reading Array Input\obj\Debug\net8.0\32 Reading Array Input.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\32 Reading Array Input\bin\Debug\net8.0\32 Reading Array Input.exe
+C:\Users\Yash.gupta\Desktop\C#\32 Reading Array Input\bin\Debug\net8.0\32 Reading Array Input.deps.json
+C:\Users\Yash.gupta\Desktop\C#\32 Reading Array Input\bin\Debug\net8.0\32 Reading Array Input.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\32 Reading Array Input\bin\Debug\net8.0\32 Reading Array Input.dll
+C:\Users\Yash.gupta\Desktop\C#\32 Reading Array Input\bin\Debug\net8.0\32 Reading Array Input.pdb
+C:\Users\Yash.gupta\Desktop\C#\32 Reading Array Input\obj\Debug\net8.0\32 Reading Array Input.dll
+C:\Users\Yash.gupta\Desktop\C#\32 Reading Array Input\obj\Debug\net8.0\refint\32 Reading Array Input.dll
+C:\Users\Yash.gupta\Desktop\C#\32 Reading Array Input\obj\Debug\net8.0\32 Reading Array Input.pdb
+C:\Users\Yash.gupta\Desktop\C#\32 Reading Array Input\obj\Debug\net8.0\32 Reading Array Input.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\32 Reading Array Input\obj\Debug\net8.0\ref\32 Reading Array Input.dll

@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\31 Multidimensional arrays\bin\Debug\net8.0\31 Multidimensional arrays.exe
+C:\Users\Yash.gupta\Desktop\C#\31 Multidimensional arrays\bin\Debug\net8.0\31 Multidimensional arrays.deps.json
+C:\Users\Yash.gupta\Desktop\C#\31 Multidimensional arrays\bin\Debug\net8.0\31 Multidimensional arrays.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\31 Multidimensional arrays\bin\Debug\net8.0\31 Multidimensional arrays.dll
+C:\Users\Yash.gupta\Desktop\C#\31 Multidimensional arrays\bin\Debug\net8.0\31 Multidimensional arrays.pdb
+C:\Users\Yash.gupta\Desktop\C#\31 Multidimensional arrays\obj\Debug\net8.0\31 Multidimensional arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\31 Multidimensional arrays\obj\Debug\net8.0\31 Multidimensional arrays.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\31 Multidimensional arrays\obj\Debug\net8.0\31 Multidimensional arrays.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\31 Multidimensional arrays\obj\Debug\net8.0\31 Multidimensional arrays.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\31 Multidimensional arrays\obj\Debug\net8.0\31 Multidimensional arrays.dll
+C:\Users\Yash.gupta\Desktop\C#\31 Multidimensional arrays\obj\Debug\net8.0\refint\31 Multidimensional arrays.dll
+C:\Users\Yash.gupta\Desktop\C#\31 Multidimensional arrays\obj\Debug\net8.0\31 Multidimensional arrays.pdb
+C:\Users\Yash.gupta\Desktop\C#\31 Multidimensional arrays\obj\Debug\net8.0\31 Multidimensional arrays.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\31 Multidimensional arrays\obj\Debug\net8.0\ref\31 Multidimensional arrays.dll
