@@ -1,0 +1,14 @@
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\13 Increment Decrement Operators\bin\Debug\net8.0\13 Increment Decrement Operators.exe
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\13 Increment Decrement Operators\bin\Debug\net8.0\13 Increment Decrement Operators.deps.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\13 Increment Decrement Operators\bin\Debug\net8.0\13 Increment Decrement Operators.runtimeconfig.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\13 Increment Decrement Operators\bin\Debug\net8.0\13 Increment Decrement Operators.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\13 Increment Decrement Operators\bin\Debug\net8.0\13 Increment Decrement Operators.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\13 Increment Decrement Operators\obj\Debug\net8.0\13 Increment Decrement Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\13 Increment Decrement Operators\obj\Debug\net8.0\13 Increment Decrement Operators.AssemblyInfoInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\13 Increment Decrement Operators\obj\Debug\net8.0\13 Increment Decrement Operators.AssemblyInfo.cs
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\13 Increment Decrement Operators\obj\Debug\net8.0\13 Increment Decrement Operators.csproj.CoreCompileInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\13 Increment Decrement Operators\obj\Debug\net8.0\13 Increment Decrement Operators.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\13 Increment Decrement Operators\obj\Debug\net8.0\refint\13 Increment Decrement Operators.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\13 Increment Decrement Operators\obj\Debug\net8.0\13 Increment Decrement Operators.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\13 Increment Decrement Operators\obj\Debug\net8.0\13 Increment Decrement Operators.genruntimeconfig.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\13 Increment Decrement Operators\obj\Debug\net8.0\ref\13 Increment Decrement Operators.dll

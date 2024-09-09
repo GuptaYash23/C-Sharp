@@ -1,0 +1,14 @@
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\4 Read and Write Operation\bin\Debug\net8.0\4 Read and Write Operation.exe
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\4 Read and Write Operation\bin\Debug\net8.0\4 Read and Write Operation.deps.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\4 Read and Write Operation\bin\Debug\net8.0\4 Read and Write Operation.runtimeconfig.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\4 Read and Write Operation\bin\Debug\net8.0\4 Read and Write Operation.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\4 Read and Write Operation\bin\Debug\net8.0\4 Read and Write Operation.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\4 Read and Write Operation\obj\Debug\net8.0\4 Read and Write Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\4 Read and Write Operation\obj\Debug\net8.0\4 Read and Write Operation.AssemblyInfoInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\4 Read and Write Operation\obj\Debug\net8.0\4 Read and Write Operation.AssemblyInfo.cs
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\4 Read and Write Operation\obj\Debug\net8.0\4 Read and Write Operation.csproj.CoreCompileInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\4 Read and Write Operation\obj\Debug\net8.0\4 Read and Write Operation.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\4 Read and Write Operation\obj\Debug\net8.0\refint\4 Read and Write Operation.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\4 Read and Write Operation\obj\Debug\net8.0\4 Read and Write Operation.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\4 Read and Write Operation\obj\Debug\net8.0\4 Read and Write Operation.genruntimeconfig.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\4 Read and Write Operation\obj\Debug\net8.0\ref\4 Read and Write Operation.dll

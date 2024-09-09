@@ -1,0 +1,14 @@
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\20 Arrays\obj\Debug\net8.0\20Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\20 Arrays\obj\Debug\net8.0\20Arrays.AssemblyInfoInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\20 Arrays\obj\Debug\net8.0\20Arrays.AssemblyInfo.cs
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\20 Arrays\obj\Debug\net8.0\20Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\20 Arrays\bin\Debug\net8.0\20Arrays.exe
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\20 Arrays\bin\Debug\net8.0\20Arrays.deps.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\20 Arrays\bin\Debug\net8.0\20Arrays.runtimeconfig.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\20 Arrays\bin\Debug\net8.0\20Arrays.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\20 Arrays\bin\Debug\net8.0\20Arrays.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\20 Arrays\obj\Debug\net8.0\20Arrays.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\20 Arrays\obj\Debug\net8.0\refint\20Arrays.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\20 Arrays\obj\Debug\net8.0\20Arrays.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\20 Arrays\obj\Debug\net8.0\20Arrays.genruntimeconfig.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\20 Arrays\obj\Debug\net8.0\ref\20Arrays.dll

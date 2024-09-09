@@ -1,0 +1,14 @@
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\17 Loops\obj\Debug\net8.0\17 Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\17 Loops\obj\Debug\net8.0\17 Loops.AssemblyInfoInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\17 Loops\obj\Debug\net8.0\17 Loops.AssemblyInfo.cs
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\17 Loops\obj\Debug\net8.0\17 Loops.csproj.CoreCompileInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\17 Loops\bin\Debug\net8.0\17 Loops.exe
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\17 Loops\bin\Debug\net8.0\17 Loops.deps.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\17 Loops\bin\Debug\net8.0\17 Loops.runtimeconfig.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\17 Loops\bin\Debug\net8.0\17 Loops.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\17 Loops\bin\Debug\net8.0\17 Loops.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\17 Loops\obj\Debug\net8.0\17 Loops.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\17 Loops\obj\Debug\net8.0\refint\17 Loops.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\17 Loops\obj\Debug\net8.0\17 Loops.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\17 Loops\obj\Debug\net8.0\17 Loops.genruntimeconfig.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\17 Loops\obj\Debug\net8.0\ref\17 Loops.dll

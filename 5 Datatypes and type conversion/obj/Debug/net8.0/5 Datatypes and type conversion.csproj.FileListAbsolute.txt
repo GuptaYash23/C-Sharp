@@ -1,0 +1,14 @@
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\5 Datatypes and type conversion\bin\Debug\net8.0\5 Datatypes and type conversion.exe
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\5 Datatypes and type conversion\bin\Debug\net8.0\5 Datatypes and type conversion.deps.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\5 Datatypes and type conversion\bin\Debug\net8.0\5 Datatypes and type conversion.runtimeconfig.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\5 Datatypes and type conversion\bin\Debug\net8.0\5 Datatypes and type conversion.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\5 Datatypes and type conversion\bin\Debug\net8.0\5 Datatypes and type conversion.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\5 Datatypes and type conversion\obj\Debug\net8.0\5 Datatypes and type conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\5 Datatypes and type conversion\obj\Debug\net8.0\5 Datatypes and type conversion.AssemblyInfoInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\5 Datatypes and type conversion\obj\Debug\net8.0\5 Datatypes and type conversion.AssemblyInfo.cs
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\5 Datatypes and type conversion\obj\Debug\net8.0\5 Datatypes and type conversion.csproj.CoreCompileInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\5 Datatypes and type conversion\obj\Debug\net8.0\5 Datatypes and type conversion.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\5 Datatypes and type conversion\obj\Debug\net8.0\refint\5 Datatypes and type conversion.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\5 Datatypes and type conversion\obj\Debug\net8.0\5 Datatypes and type conversion.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\5 Datatypes and type conversion\obj\Debug\net8.0\5 Datatypes and type conversion.genruntimeconfig.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\5 Datatypes and type conversion\obj\Debug\net8.0\ref\5 Datatypes and type conversion.dll

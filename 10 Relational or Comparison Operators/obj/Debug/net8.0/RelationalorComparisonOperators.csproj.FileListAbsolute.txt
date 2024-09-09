@@ -1,0 +1,14 @@
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\10 Relational or Comparison Operators\bin\Debug\net8.0\RelationalorComparisonOperators.exe
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\10 Relational or Comparison Operators\bin\Debug\net8.0\RelationalorComparisonOperators.deps.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\10 Relational or Comparison Operators\bin\Debug\net8.0\RelationalorComparisonOperators.runtimeconfig.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\10 Relational or Comparison Operators\bin\Debug\net8.0\RelationalorComparisonOperators.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\10 Relational or Comparison Operators\bin\Debug\net8.0\RelationalorComparisonOperators.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\10 Relational or Comparison Operators\obj\Debug\net8.0\RelationalorComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\10 Relational or Comparison Operators\obj\Debug\net8.0\RelationalorComparisonOperators.AssemblyInfoInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\10 Relational or Comparison Operators\obj\Debug\net8.0\RelationalorComparisonOperators.AssemblyInfo.cs
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\10 Relational or Comparison Operators\obj\Debug\net8.0\RelationalorComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\10 Relational or Comparison Operators\obj\Debug\net8.0\RelationalorComparisonOperators.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\10 Relational or Comparison Operators\obj\Debug\net8.0\refint\RelationalorComparisonOperators.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\10 Relational or Comparison Operators\obj\Debug\net8.0\RelationalorComparisonOperators.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\10 Relational or Comparison Operators\obj\Debug\net8.0\RelationalorComparisonOperators.genruntimeconfig.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\10 Relational or Comparison Operators\obj\Debug\net8.0\ref\RelationalorComparisonOperators.dll

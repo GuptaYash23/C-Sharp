@@ -1,0 +1,14 @@
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\11 Logical and Conditional Operators\bin\Debug\net8.0\LogicalOperators.exe
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\11 Logical and Conditional Operators\bin\Debug\net8.0\LogicalOperators.deps.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\11 Logical and Conditional Operators\bin\Debug\net8.0\LogicalOperators.runtimeconfig.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\11 Logical and Conditional Operators\bin\Debug\net8.0\LogicalOperators.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\11 Logical and Conditional Operators\bin\Debug\net8.0\LogicalOperators.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\11 Logical and Conditional Operators\obj\Debug\net8.0\LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\11 Logical and Conditional Operators\obj\Debug\net8.0\LogicalOperators.AssemblyInfoInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\11 Logical and Conditional Operators\obj\Debug\net8.0\LogicalOperators.AssemblyInfo.cs
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\11 Logical and Conditional Operators\obj\Debug\net8.0\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\11 Logical and Conditional Operators\obj\Debug\net8.0\LogicalOperators.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\11 Logical and Conditional Operators\obj\Debug\net8.0\refint\LogicalOperators.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\11 Logical and Conditional Operators\obj\Debug\net8.0\LogicalOperators.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\11 Logical and Conditional Operators\obj\Debug\net8.0\LogicalOperators.genruntimeconfig.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\11 Logical and Conditional Operators\obj\Debug\net8.0\ref\LogicalOperators.dll

@@ -1,0 +1,14 @@
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\7 DateTime Specifiers\obj\Debug\net8.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\7 DateTime Specifiers\obj\Debug\net8.0\DateTime.AssemblyInfoInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\7 DateTime Specifiers\obj\Debug\net8.0\DateTime.AssemblyInfo.cs
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\7 DateTime Specifiers\obj\Debug\net8.0\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\7 DateTime Specifiers\bin\Debug\net8.0\DateTime.exe
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\7 DateTime Specifiers\bin\Debug\net8.0\DateTime.deps.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\7 DateTime Specifiers\bin\Debug\net8.0\DateTime.runtimeconfig.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\7 DateTime Specifiers\bin\Debug\net8.0\DateTime.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\7 DateTime Specifiers\bin\Debug\net8.0\DateTime.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\7 DateTime Specifiers\obj\Debug\net8.0\DateTime.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\7 DateTime Specifiers\obj\Debug\net8.0\refint\DateTime.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\7 DateTime Specifiers\obj\Debug\net8.0\DateTime.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\7 DateTime Specifiers\obj\Debug\net8.0\DateTime.genruntimeconfig.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\7 DateTime Specifiers\obj\Debug\net8.0\ref\DateTime.dll
