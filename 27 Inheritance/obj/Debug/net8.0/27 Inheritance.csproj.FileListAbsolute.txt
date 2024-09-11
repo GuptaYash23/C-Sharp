@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\27 Inheritance\obj\Debug\net8.0\27 Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\27 Inheritance\obj\Debug\net8.0\27 Inheritance.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\27 Inheritance\obj\Debug\net8.0\27 Inheritance.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\27 Inheritance\obj\Debug\net8.0\27 Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\27 Inheritance\bin\Debug\net8.0\27 Inheritance.exe
+C:\Users\Yash.gupta\Desktop\C#\27 Inheritance\bin\Debug\net8.0\27 Inheritance.deps.json
+C:\Users\Yash.gupta\Desktop\C#\27 Inheritance\bin\Debug\net8.0\27 Inheritance.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\27 Inheritance\bin\Debug\net8.0\27 Inheritance.dll
+C:\Users\Yash.gupta\Desktop\C#\27 Inheritance\bin\Debug\net8.0\27 Inheritance.pdb
+C:\Users\Yash.gupta\Desktop\C#\27 Inheritance\obj\Debug\net8.0\27 Inheritance.dll
+C:\Users\Yash.gupta\Desktop\C#\27 Inheritance\obj\Debug\net8.0\refint\27 Inheritance.dll
+C:\Users\Yash.gupta\Desktop\C#\27 Inheritance\obj\Debug\net8.0\27 Inheritance.pdb
+C:\Users\Yash.gupta\Desktop\C#\27 Inheritance\obj\Debug\net8.0\27 Inheritance.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\27 Inheritance\obj\Debug\net8.0\ref\27 Inheritance.dll

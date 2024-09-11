@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\26 Destructors\obj\Debug\net8.0\26 Destructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\26 Destructors\obj\Debug\net8.0\26 Destructors.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\26 Destructors\obj\Debug\net8.0\26 Destructors.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\26 Destructors\obj\Debug\net8.0\26 Destructors.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\26 Destructors\bin\Debug\net8.0\26 Destructors.exe
+C:\Users\Yash.gupta\Desktop\C#\26 Destructors\bin\Debug\net8.0\26 Destructors.deps.json
+C:\Users\Yash.gupta\Desktop\C#\26 Destructors\bin\Debug\net8.0\26 Destructors.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\26 Destructors\bin\Debug\net8.0\26 Destructors.dll
+C:\Users\Yash.gupta\Desktop\C#\26 Destructors\bin\Debug\net8.0\26 Destructors.pdb
+C:\Users\Yash.gupta\Desktop\C#\26 Destructors\obj\Debug\net8.0\26 Destructors.dll
+C:\Users\Yash.gupta\Desktop\C#\26 Destructors\obj\Debug\net8.0\refint\26 Destructors.dll
+C:\Users\Yash.gupta\Desktop\C#\26 Destructors\obj\Debug\net8.0\26 Destructors.pdb
+C:\Users\Yash.gupta\Desktop\C#\26 Destructors\obj\Debug\net8.0\26 Destructors.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\26 Destructors\obj\Debug\net8.0\ref\26 Destructors.dll

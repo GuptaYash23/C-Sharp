@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yash.gupta\\Desktop\\C#\\26 Destructors\\26 Destructors.csproj": {}
+    "C:\\Users\\Yash.gupta\\Desktop\\C#\\28 Type of Inheritance\\28 Type of Inheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yash.gupta\\Desktop\\C#\\26 Destructors\\26 Destructors.csproj": {
+    "C:\\Users\\Yash.gupta\\Desktop\\C#\\28 Type of Inheritance\\28 Type of Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yash.gupta\\Desktop\\C#\\26 Destructors\\26 Destructors.csproj",
-        "projectName": "26 Destructors",
-        "projectPath": "C:\\Users\\Yash.gupta\\Desktop\\C#\\26 Destructors\\26 Destructors.csproj",
+        "projectUniqueName": "C:\\Users\\Yash.gupta\\Desktop\\C#\\28 Type of Inheritance\\28 Type of Inheritance.csproj",
+        "projectName": "28 Type of Inheritance",
+        "projectPath": "C:\\Users\\Yash.gupta\\Desktop\\C#\\28 Type of Inheritance\\28 Type of Inheritance.csproj",
         "packagesPath": "C:\\Users\\Yash.gupta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yash.gupta\\Desktop\\C#\\26 Destructors\\obj\\",
+        "outputPath": "C:\\Users\\Yash.gupta\\Desktop\\C#\\28 Type of Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yash.gupta\\AppData\\Roaming\\NuGet\\NuGet.Config",

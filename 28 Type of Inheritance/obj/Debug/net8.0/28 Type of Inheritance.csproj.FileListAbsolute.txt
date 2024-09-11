@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\28 Type of Inheritance\bin\Debug\net8.0\28 Type of Inheritance.exe
+C:\Users\Yash.gupta\Desktop\C#\28 Type of Inheritance\bin\Debug\net8.0\28 Type of Inheritance.deps.json
+C:\Users\Yash.gupta\Desktop\C#\28 Type of Inheritance\bin\Debug\net8.0\28 Type of Inheritance.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\28 Type of Inheritance\bin\Debug\net8.0\28 Type of Inheritance.dll
+C:\Users\Yash.gupta\Desktop\C#\28 Type of Inheritance\bin\Debug\net8.0\28 Type of Inheritance.pdb
+C:\Users\Yash.gupta\Desktop\C#\28 Type of Inheritance\obj\Debug\net8.0\28 Type of Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\28 Type of Inheritance\obj\Debug\net8.0\28 Type of Inheritance.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\28 Type of Inheritance\obj\Debug\net8.0\28 Type of Inheritance.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\28 Type of Inheritance\obj\Debug\net8.0\28 Type of Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\28 Type of Inheritance\obj\Debug\net8.0\28 Type of Inheritance.dll
+C:\Users\Yash.gupta\Desktop\C#\28 Type of Inheritance\obj\Debug\net8.0\refint\28 Type of Inheritance.dll
+C:\Users\Yash.gupta\Desktop\C#\28 Type of Inheritance\obj\Debug\net8.0\28 Type of Inheritance.pdb
+C:\Users\Yash.gupta\Desktop\C#\28 Type of Inheritance\obj\Debug\net8.0\28 Type of Inheritance.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\28 Type of Inheritance\obj\Debug\net8.0\ref\28 Type of Inheritance.dll
