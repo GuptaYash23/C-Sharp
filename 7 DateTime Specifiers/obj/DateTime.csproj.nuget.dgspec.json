@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\7 DateTime Specifiers\\DateTime.csproj": {}
+    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\7 DateTime Specifiers\\DateTime.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\7 DateTime Specifiers\\DateTime.csproj": {
+    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\7 DateTime Specifiers\\DateTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\7 DateTime Specifiers\\DateTime.csproj",
+        "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\7 DateTime Specifiers\\DateTime.csproj",
         "projectName": "DateTime",
-        "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\7 DateTime Specifiers\\DateTime.csproj",
+        "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\7 DateTime Specifiers\\DateTime.csproj",
         "packagesPath": "C:\\Users\\Yash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\7 DateTime Specifiers\\obj\\",
+        "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\7 DateTime Specifiers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yash\\AppData\\Roaming\\NuGet\\NuGet.Config",

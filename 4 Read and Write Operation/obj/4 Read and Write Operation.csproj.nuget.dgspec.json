@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\4 Read and Write Operation\\4 Read and Write Operation.csproj": {}
+    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\4 Read and Write Operation\\4 Read and Write Operation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\4 Read and Write Operation\\4 Read and Write Operation.csproj": {
+    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\4 Read and Write Operation\\4 Read and Write Operation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\4 Read and Write Operation\\4 Read and Write Operation.csproj",
+        "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\4 Read and Write Operation\\4 Read and Write Operation.csproj",
         "projectName": "4 Read and Write Operation",
-        "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\4 Read and Write Operation\\4 Read and Write Operation.csproj",
+        "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\4 Read and Write Operation\\4 Read and Write Operation.csproj",
         "packagesPath": "C:\\Users\\Yash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\4 Read and Write Operation\\obj\\",
+        "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\4 Read and Write Operation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yash\\AppData\\Roaming\\NuGet\\NuGet.Config",

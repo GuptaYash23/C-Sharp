@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\9 Arithmetic Operators\\9.csproj",
+      "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\9 Arithmetic Operators\\9.csproj",
       "projectName": "9",
-      "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\9 Arithmetic Operators\\9.csproj",
+      "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\9 Arithmetic Operators\\9.csproj",
       "packagesPath": "C:\\Users\\Yash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\9 Arithmetic Operators\\obj\\",
+      "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\9 Arithmetic Operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yash\\AppData\\Roaming\\NuGet\\NuGet.Config",

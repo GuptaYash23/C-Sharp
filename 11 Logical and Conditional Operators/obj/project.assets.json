@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\11 Logical and Conditional Operators\\LogicalOperators.csproj",
+      "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\11 Logical and Conditional Operators\\LogicalOperators.csproj",
       "projectName": "LogicalOperators",
-      "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\11 Logical and Conditional Operators\\LogicalOperators.csproj",
+      "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\11 Logical and Conditional Operators\\LogicalOperators.csproj",
       "packagesPath": "C:\\Users\\Yash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\11 Logical and Conditional Operators\\obj\\",
+      "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\11 Logical and Conditional Operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yash\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\5 Datatypes and type conversion\\5 Datatypes and type conversion.csproj",
+      "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\5 Datatypes and type conversion\\5 Datatypes and type conversion.csproj",
       "projectName": "5 Datatypes and type conversion",
-      "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\5 Datatypes and type conversion\\5 Datatypes and type conversion.csproj",
+      "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\5 Datatypes and type conversion\\5 Datatypes and type conversion.csproj",
       "packagesPath": "C:\\Users\\Yash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\5 Datatypes and type conversion\\obj\\",
+      "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\5 Datatypes and type conversion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yash\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,14 @@
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\25 Calculator\bin\Debug\net8.0\25 Calculator.exe
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\25 Calculator\bin\Debug\net8.0\25 Calculator.deps.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\25 Calculator\bin\Debug\net8.0\25 Calculator.runtimeconfig.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\25 Calculator\bin\Debug\net8.0\25 Calculator.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\25 Calculator\bin\Debug\net8.0\25 Calculator.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\25 Calculator\obj\Debug\net8.0\25 Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\25 Calculator\obj\Debug\net8.0\25 Calculator.AssemblyInfoInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\25 Calculator\obj\Debug\net8.0\25 Calculator.AssemblyInfo.cs
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\25 Calculator\obj\Debug\net8.0\25 Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\25 Calculator\obj\Debug\net8.0\25 Calculator.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\25 Calculator\obj\Debug\net8.0\refint\25 Calculator.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\25 Calculator\obj\Debug\net8.0\25 Calculator.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\25 Calculator\obj\Debug\net8.0\25 Calculator.genruntimeconfig.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\25 Calculator\obj\Debug\net8.0\ref\25 Calculator.dll

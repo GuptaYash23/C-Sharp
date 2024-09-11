@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\8 Statements Expressions and Operators\\statements.csproj": {}
+    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\8 Statements Expressions and Operators\\statements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\8 Statements Expressions and Operators\\statements.csproj": {
+    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\8 Statements Expressions and Operators\\statements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\8 Statements Expressions and Operators\\statements.csproj",
+        "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\8 Statements Expressions and Operators\\statements.csproj",
         "projectName": "statements",
-        "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\8 Statements Expressions and Operators\\statements.csproj",
+        "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\8 Statements Expressions and Operators\\statements.csproj",
         "packagesPath": "C:\\Users\\Yash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\8 Statements Expressions and Operators\\obj\\",
+        "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\8 Statements Expressions and Operators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yash\\AppData\\Roaming\\NuGet\\NuGet.Config",

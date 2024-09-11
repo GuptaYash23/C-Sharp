@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\6 Const Variable\\6 Const Variable.csproj": {}
+    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\6 Const Variable\\6 Const Variable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\6 Const Variable\\6 Const Variable.csproj": {
+    "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\6 Const Variable\\6 Const Variable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\6 Const Variable\\6 Const Variable.csproj",
+        "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\6 Const Variable\\6 Const Variable.csproj",
         "projectName": "6 Const Variable",
-        "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\6 Const Variable\\6 Const Variable.csproj",
+        "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\6 Const Variable\\6 Const Variable.csproj",
         "packagesPath": "C:\\Users\\Yash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\6 Const Variable\\obj\\",
+        "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\6 Const Variable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yash\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,14 @@
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\24 Named Arguments\bin\Debug\net8.0\24 Named Arguments.exe
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\24 Named Arguments\bin\Debug\net8.0\24 Named Arguments.deps.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\24 Named Arguments\bin\Debug\net8.0\24 Named Arguments.runtimeconfig.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\24 Named Arguments\bin\Debug\net8.0\24 Named Arguments.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\24 Named Arguments\bin\Debug\net8.0\24 Named Arguments.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\24 Named Arguments\obj\Debug\net8.0\24 Named Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\24 Named Arguments\obj\Debug\net8.0\24 Named Arguments.AssemblyInfoInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\24 Named Arguments\obj\Debug\net8.0\24 Named Arguments.AssemblyInfo.cs
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\24 Named Arguments\obj\Debug\net8.0\24 Named Arguments.csproj.CoreCompileInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\24 Named Arguments\obj\Debug\net8.0\24 Named Arguments.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\24 Named Arguments\obj\Debug\net8.0\refint\24 Named Arguments.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\24 Named Arguments\obj\Debug\net8.0\24 Named Arguments.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\24 Named Arguments\obj\Debug\net8.0\24 Named Arguments.genruntimeconfig.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\24 Named Arguments\obj\Debug\net8.0\ref\24 Named Arguments.dll
