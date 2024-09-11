@@ -1,0 +1,14 @@
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\30 Encapsulation\bin\Debug\net8.0\30 Encapsulation.exe
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\30 Encapsulation\bin\Debug\net8.0\30 Encapsulation.deps.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\30 Encapsulation\bin\Debug\net8.0\30 Encapsulation.runtimeconfig.json
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\30 Encapsulation\bin\Debug\net8.0\30 Encapsulation.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\30 Encapsulation\bin\Debug\net8.0\30 Encapsulation.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\30 Encapsulation\obj\Debug\net8.0\30 Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\30 Encapsulation\obj\Debug\net8.0\30 Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\30 Encapsulation\obj\Debug\net8.0\30 Encapsulation.AssemblyInfo.cs
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\30 Encapsulation\obj\Debug\net8.0\30 Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\30 Encapsulation\obj\Debug\net8.0\30 Encapsulation.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\30 Encapsulation\obj\Debug\net8.0\refint\30 Encapsulation.dll
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\30 Encapsulation\obj\Debug\net8.0\30 Encapsulation.pdb
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\30 Encapsulation\obj\Debug\net8.0\30 Encapsulation.genruntimeconfig.cache
+C:\Users\Yash\OneDrive\Desktop\Languages\C#\30 Encapsulation\obj\Debug\net8.0\ref\30 Encapsulation.dll
