@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\31 Getters and Setters\obj\Debug\net8.0\31 Getters and Setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\31 Getters and Setters\obj\Debug\net8.0\31 Getters and Setters.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\31 Getters and Setters\obj\Debug\net8.0\31 Getters and Setters.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\31 Getters and Setters\obj\Debug\net8.0\31 Getters and Setters.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\31 Getters and Setters\bin\Debug\net8.0\31 Getters and Setters.exe
+C:\Users\Yash.gupta\Desktop\C#\31 Getters and Setters\bin\Debug\net8.0\31 Getters and Setters.deps.json
+C:\Users\Yash.gupta\Desktop\C#\31 Getters and Setters\bin\Debug\net8.0\31 Getters and Setters.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\31 Getters and Setters\bin\Debug\net8.0\31 Getters and Setters.dll
+C:\Users\Yash.gupta\Desktop\C#\31 Getters and Setters\bin\Debug\net8.0\31 Getters and Setters.pdb
+C:\Users\Yash.gupta\Desktop\C#\31 Getters and Setters\obj\Debug\net8.0\31 Getters and Setters.dll
+C:\Users\Yash.gupta\Desktop\C#\31 Getters and Setters\obj\Debug\net8.0\refint\31 Getters and Setters.dll
+C:\Users\Yash.gupta\Desktop\C#\31 Getters and Setters\obj\Debug\net8.0\31 Getters and Setters.pdb
+C:\Users\Yash.gupta\Desktop\C#\31 Getters and Setters\obj\Debug\net8.0\31 Getters and Setters.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\31 Getters and Setters\obj\Debug\net8.0\ref\31 Getters and Setters.dll
