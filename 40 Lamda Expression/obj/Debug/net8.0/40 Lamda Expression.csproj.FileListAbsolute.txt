@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\40 Lamda Expression\bin\Debug\net8.0\40 Lamda Expression.exe
+C:\Users\Yash.gupta\Desktop\C#\40 Lamda Expression\bin\Debug\net8.0\40 Lamda Expression.deps.json
+C:\Users\Yash.gupta\Desktop\C#\40 Lamda Expression\bin\Debug\net8.0\40 Lamda Expression.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\40 Lamda Expression\bin\Debug\net8.0\40 Lamda Expression.dll
+C:\Users\Yash.gupta\Desktop\C#\40 Lamda Expression\bin\Debug\net8.0\40 Lamda Expression.pdb
+C:\Users\Yash.gupta\Desktop\C#\40 Lamda Expression\obj\Debug\net8.0\40 Lamda Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\40 Lamda Expression\obj\Debug\net8.0\40 Lamda Expression.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\40 Lamda Expression\obj\Debug\net8.0\40 Lamda Expression.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\40 Lamda Expression\obj\Debug\net8.0\40 Lamda Expression.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\40 Lamda Expression\obj\Debug\net8.0\40 Lamda Expression.dll
+C:\Users\Yash.gupta\Desktop\C#\40 Lamda Expression\obj\Debug\net8.0\refint\40 Lamda Expression.dll
+C:\Users\Yash.gupta\Desktop\C#\40 Lamda Expression\obj\Debug\net8.0\40 Lamda Expression.pdb
+C:\Users\Yash.gupta\Desktop\C#\40 Lamda Expression\obj\Debug\net8.0\40 Lamda Expression.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\40 Lamda Expression\obj\Debug\net8.0\ref\40 Lamda Expression.dll

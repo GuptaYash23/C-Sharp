@@ -93,4 +93,10 @@ Inline: Ideal for one-time use when the anonymous function is needed only in a s
 
 Both approaches allow concise function definition and reduce boilerplate code in scenarios where creating a separate method would be overkill.
 
+Limitations:
+
+It cannot contain jump statements like goto, break or continue
+
+It cannot access ref or out parameter of an outer method
+
 */
