@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\39 Anonymous Functions\\39 Anonymous Functions.csproj",
-      "projectName": "39 Anonymous Functions",
-      "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\39 Anonymous Functions\\39 Anonymous Functions.csproj",
+      "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\42 Interface\\42 Interface.csproj",
+      "projectName": "42 Interface",
+      "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\42 Interface\\42 Interface.csproj",
       "packagesPath": "C:\\Users\\Yash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\39 Anonymous Functions\\obj\\",
+      "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\42 Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yash\\AppData\\Roaming\\NuGet\\NuGet.Config",

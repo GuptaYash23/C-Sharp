@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\39 Anonymous Functions\\39 Anonymous Functions.csproj",
-      "projectName": "39 Anonymous Functions",
-      "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\39 Anonymous Functions\\39 Anonymous Functions.csproj",
+      "projectUniqueName": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\44 Interface Inheritance\\44 Interface Inheritance.csproj",
+      "projectName": "44 Interface Inheritance",
+      "projectPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\44 Interface Inheritance\\44 Interface Inheritance.csproj",
       "packagesPath": "C:\\Users\\Yash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C# Shared\\C-Sharp\\39 Anonymous Functions\\obj\\",
+      "outputPath": "C:\\Users\\Yash\\OneDrive\\Desktop\\Languages\\C#\\44 Interface Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yash\\AppData\\Roaming\\NuGet\\NuGet.Config",
