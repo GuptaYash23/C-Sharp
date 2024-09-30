@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\47 Generics\bin\Debug\net8.0\47 Generics.exe
+C:\Users\Yash.gupta\Desktop\C#\47 Generics\bin\Debug\net8.0\47 Generics.deps.json
+C:\Users\Yash.gupta\Desktop\C#\47 Generics\bin\Debug\net8.0\47 Generics.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\47 Generics\bin\Debug\net8.0\47 Generics.dll
+C:\Users\Yash.gupta\Desktop\C#\47 Generics\bin\Debug\net8.0\47 Generics.pdb
+C:\Users\Yash.gupta\Desktop\C#\47 Generics\obj\Debug\net8.0\47 Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\47 Generics\obj\Debug\net8.0\47 Generics.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\47 Generics\obj\Debug\net8.0\47 Generics.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\47 Generics\obj\Debug\net8.0\47 Generics.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\47 Generics\obj\Debug\net8.0\47 Generics.dll
+C:\Users\Yash.gupta\Desktop\C#\47 Generics\obj\Debug\net8.0\refint\47 Generics.dll
+C:\Users\Yash.gupta\Desktop\C#\47 Generics\obj\Debug\net8.0\47 Generics.pdb
+C:\Users\Yash.gupta\Desktop\C#\47 Generics\obj\Debug\net8.0\47 Generics.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\47 Generics\obj\Debug\net8.0\ref\47 Generics.dll

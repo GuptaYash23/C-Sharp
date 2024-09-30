@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\45 Explicit Interface Implementation\obj\Debug\net8.0\45 Explicit Interface Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\45 Explicit Interface Implementation\obj\Debug\net8.0\45 Explicit Interface Implementation.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\45 Explicit Interface Implementation\obj\Debug\net8.0\45 Explicit Interface Implementation.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\45 Explicit Interface Implementation\obj\Debug\net8.0\45 Explicit Interface Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\45 Explicit Interface Implementation\bin\Debug\net8.0\45 Explicit Interface Implementation.exe
+C:\Users\Yash.gupta\Desktop\C#\45 Explicit Interface Implementation\bin\Debug\net8.0\45 Explicit Interface Implementation.deps.json
+C:\Users\Yash.gupta\Desktop\C#\45 Explicit Interface Implementation\bin\Debug\net8.0\45 Explicit Interface Implementation.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\45 Explicit Interface Implementation\bin\Debug\net8.0\45 Explicit Interface Implementation.dll
+C:\Users\Yash.gupta\Desktop\C#\45 Explicit Interface Implementation\bin\Debug\net8.0\45 Explicit Interface Implementation.pdb
+C:\Users\Yash.gupta\Desktop\C#\45 Explicit Interface Implementation\obj\Debug\net8.0\45 Explicit Interface Implementation.dll
+C:\Users\Yash.gupta\Desktop\C#\45 Explicit Interface Implementation\obj\Debug\net8.0\refint\45 Explicit Interface Implementation.dll
+C:\Users\Yash.gupta\Desktop\C#\45 Explicit Interface Implementation\obj\Debug\net8.0\45 Explicit Interface Implementation.pdb
+C:\Users\Yash.gupta\Desktop\C#\45 Explicit Interface Implementation\obj\Debug\net8.0\45 Explicit Interface Implementation.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\45 Explicit Interface Implementation\obj\Debug\net8.0\ref\45 Explicit Interface Implementation.dll

@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\46 Multiple Inheritance\bin\Debug\net8.0\46 Multiple Inheritance.exe
+C:\Users\Yash.gupta\Desktop\C#\46 Multiple Inheritance\bin\Debug\net8.0\46 Multiple Inheritance.deps.json
+C:\Users\Yash.gupta\Desktop\C#\46 Multiple Inheritance\bin\Debug\net8.0\46 Multiple Inheritance.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\46 Multiple Inheritance\bin\Debug\net8.0\46 Multiple Inheritance.dll
+C:\Users\Yash.gupta\Desktop\C#\46 Multiple Inheritance\bin\Debug\net8.0\46 Multiple Inheritance.pdb
+C:\Users\Yash.gupta\Desktop\C#\46 Multiple Inheritance\obj\Debug\net8.0\46 Multiple Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\46 Multiple Inheritance\obj\Debug\net8.0\46 Multiple Inheritance.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\46 Multiple Inheritance\obj\Debug\net8.0\46 Multiple Inheritance.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\46 Multiple Inheritance\obj\Debug\net8.0\46 Multiple Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\46 Multiple Inheritance\obj\Debug\net8.0\46 Multiple Inheritance.dll
+C:\Users\Yash.gupta\Desktop\C#\46 Multiple Inheritance\obj\Debug\net8.0\refint\46 Multiple Inheritance.dll
+C:\Users\Yash.gupta\Desktop\C#\46 Multiple Inheritance\obj\Debug\net8.0\46 Multiple Inheritance.pdb
+C:\Users\Yash.gupta\Desktop\C#\46 Multiple Inheritance\obj\Debug\net8.0\46 Multiple Inheritance.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\46 Multiple Inheritance\obj\Debug\net8.0\ref\46 Multiple Inheritance.dll

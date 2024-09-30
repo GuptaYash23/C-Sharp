@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\48 Generic Class\bin\Debug\net8.0\48 Generic Class.exe
+C:\Users\Yash.gupta\Desktop\C#\48 Generic Class\bin\Debug\net8.0\48 Generic Class.deps.json
+C:\Users\Yash.gupta\Desktop\C#\48 Generic Class\bin\Debug\net8.0\48 Generic Class.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\48 Generic Class\bin\Debug\net8.0\48 Generic Class.dll
+C:\Users\Yash.gupta\Desktop\C#\48 Generic Class\bin\Debug\net8.0\48 Generic Class.pdb
+C:\Users\Yash.gupta\Desktop\C#\48 Generic Class\obj\Debug\net8.0\48 Generic Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\48 Generic Class\obj\Debug\net8.0\48 Generic Class.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\48 Generic Class\obj\Debug\net8.0\48 Generic Class.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\48 Generic Class\obj\Debug\net8.0\48 Generic Class.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\48 Generic Class\obj\Debug\net8.0\48 Generic Class.dll
+C:\Users\Yash.gupta\Desktop\C#\48 Generic Class\obj\Debug\net8.0\refint\48 Generic Class.dll
+C:\Users\Yash.gupta\Desktop\C#\48 Generic Class\obj\Debug\net8.0\48 Generic Class.pdb
+C:\Users\Yash.gupta\Desktop\C#\48 Generic Class\obj\Debug\net8.0\48 Generic Class.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\48 Generic Class\obj\Debug\net8.0\ref\48 Generic Class.dll
