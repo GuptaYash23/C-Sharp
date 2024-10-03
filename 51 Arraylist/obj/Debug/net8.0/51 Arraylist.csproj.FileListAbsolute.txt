@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\51 Arraylist\bin\Debug\net8.0\51 Arraylist.exe
+C:\Users\Yash.gupta\Desktop\C#\51 Arraylist\bin\Debug\net8.0\51 Arraylist.deps.json
+C:\Users\Yash.gupta\Desktop\C#\51 Arraylist\bin\Debug\net8.0\51 Arraylist.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\51 Arraylist\bin\Debug\net8.0\51 Arraylist.dll
+C:\Users\Yash.gupta\Desktop\C#\51 Arraylist\bin\Debug\net8.0\51 Arraylist.pdb
+C:\Users\Yash.gupta\Desktop\C#\51 Arraylist\obj\Debug\net8.0\51 Arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\51 Arraylist\obj\Debug\net8.0\51 Arraylist.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\51 Arraylist\obj\Debug\net8.0\51 Arraylist.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\51 Arraylist\obj\Debug\net8.0\51 Arraylist.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\51 Arraylist\obj\Debug\net8.0\51 Arraylist.dll
+C:\Users\Yash.gupta\Desktop\C#\51 Arraylist\obj\Debug\net8.0\refint\51 Arraylist.dll
+C:\Users\Yash.gupta\Desktop\C#\51 Arraylist\obj\Debug\net8.0\51 Arraylist.pdb
+C:\Users\Yash.gupta\Desktop\C#\51 Arraylist\obj\Debug\net8.0\51 Arraylist.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\51 Arraylist\obj\Debug\net8.0\ref\51 Arraylist.dll
