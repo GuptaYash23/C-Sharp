@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\56 List\bin\Debug\net8.0\56 List.exe
+C:\Users\Yash.gupta\Desktop\C#\56 List\bin\Debug\net8.0\56 List.deps.json
+C:\Users\Yash.gupta\Desktop\C#\56 List\bin\Debug\net8.0\56 List.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\56 List\bin\Debug\net8.0\56 List.dll
+C:\Users\Yash.gupta\Desktop\C#\56 List\bin\Debug\net8.0\56 List.pdb
+C:\Users\Yash.gupta\Desktop\C#\56 List\obj\Debug\net8.0\56 List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\56 List\obj\Debug\net8.0\56 List.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\56 List\obj\Debug\net8.0\56 List.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\56 List\obj\Debug\net8.0\56 List.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\56 List\obj\Debug\net8.0\56 List.dll
+C:\Users\Yash.gupta\Desktop\C#\56 List\obj\Debug\net8.0\refint\56 List.dll
+C:\Users\Yash.gupta\Desktop\C#\56 List\obj\Debug\net8.0\56 List.pdb
+C:\Users\Yash.gupta\Desktop\C#\56 List\obj\Debug\net8.0\56 List.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\56 List\obj\Debug\net8.0\ref\56 List.dll

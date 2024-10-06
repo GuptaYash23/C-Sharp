@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\58 Dictionary\bin\Debug\net8.0\58 Dictionary.exe
+C:\Users\Yash.gupta\Desktop\C#\58 Dictionary\bin\Debug\net8.0\58 Dictionary.deps.json
+C:\Users\Yash.gupta\Desktop\C#\58 Dictionary\bin\Debug\net8.0\58 Dictionary.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\58 Dictionary\bin\Debug\net8.0\58 Dictionary.dll
+C:\Users\Yash.gupta\Desktop\C#\58 Dictionary\bin\Debug\net8.0\58 Dictionary.pdb
+C:\Users\Yash.gupta\Desktop\C#\58 Dictionary\obj\Debug\net8.0\58 Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\58 Dictionary\obj\Debug\net8.0\58 Dictionary.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\58 Dictionary\obj\Debug\net8.0\58 Dictionary.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\58 Dictionary\obj\Debug\net8.0\58 Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\58 Dictionary\obj\Debug\net8.0\58 Dictionary.dll
+C:\Users\Yash.gupta\Desktop\C#\58 Dictionary\obj\Debug\net8.0\refint\58 Dictionary.dll
+C:\Users\Yash.gupta\Desktop\C#\58 Dictionary\obj\Debug\net8.0\58 Dictionary.pdb
+C:\Users\Yash.gupta\Desktop\C#\58 Dictionary\obj\Debug\net8.0\58 Dictionary.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\58 Dictionary\obj\Debug\net8.0\ref\58 Dictionary.dll
