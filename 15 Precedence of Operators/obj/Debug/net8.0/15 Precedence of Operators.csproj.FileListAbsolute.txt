@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\15 Precedence of Operators\bin\Debug\net8.0\15 Precedence of Operators.exe
+C:\Users\Yash.gupta\Desktop\C#\15 Precedence of Operators\bin\Debug\net8.0\15 Precedence of Operators.deps.json
+C:\Users\Yash.gupta\Desktop\C#\15 Precedence of Operators\bin\Debug\net8.0\15 Precedence of Operators.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\15 Precedence of Operators\bin\Debug\net8.0\15 Precedence of Operators.dll
+C:\Users\Yash.gupta\Desktop\C#\15 Precedence of Operators\bin\Debug\net8.0\15 Precedence of Operators.pdb
+C:\Users\Yash.gupta\Desktop\C#\15 Precedence of Operators\obj\Debug\net8.0\15 Precedence of Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\15 Precedence of Operators\obj\Debug\net8.0\15 Precedence of Operators.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\15 Precedence of Operators\obj\Debug\net8.0\15 Precedence of Operators.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\15 Precedence of Operators\obj\Debug\net8.0\15 Precedence of Operators.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\15 Precedence of Operators\obj\Debug\net8.0\15 Precedence of Operators.dll
+C:\Users\Yash.gupta\Desktop\C#\15 Precedence of Operators\obj\Debug\net8.0\refint\15 Precedence of Operators.dll
+C:\Users\Yash.gupta\Desktop\C#\15 Precedence of Operators\obj\Debug\net8.0\15 Precedence of Operators.pdb
+C:\Users\Yash.gupta\Desktop\C#\15 Precedence of Operators\obj\Debug\net8.0\15 Precedence of Operators.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\15 Precedence of Operators\obj\Debug\net8.0\ref\15 Precedence of Operators.dll

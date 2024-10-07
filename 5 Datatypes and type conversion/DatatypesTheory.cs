@@ -265,3 +265,104 @@ Value Types are stored directly, are usually faster to access, and are copied wh
 Reference Types store a reference to the data, allow for more complex data structures, and involve reference semantics when assigning or passing to methods.
 
 */
+
+/* Pass by value and Pass by reference
+
+In C#, when you pass arguments to methods, you can do so in two primary ways: pass by value and pass by reference. The way you pass arguments affects how changes to those arguments within the method affect the original variables.
+
+-> Pass by Value
+
+When you pass a parameter by value, a copy of the variable's value is made and passed to the method. This means that any changes made to the parameter inside the method do not affect the original variable outside the method.
+
+Example of Pass by Value:
+
+--------------------------------------------------------------------------------------------
+void ModifyValue(int number)
+{
+    number = 10; // This change does not affect the original variable
+}
+
+int originalValue = 5;
+ModifyValue(originalValue);
+Console.WriteLine(originalValue); // Output: 5
+--------------------------------------------------------------------------------------------
+
+In this example, originalValue remains 5 because number is a copy of originalValue, and changes to number do not affect originalValue.
+
+-> Pass by Reference
+
+When you pass a parameter by reference, you use the ref or out keywords. This means that a reference to the original variable is passed to the method, allowing the method to modify the original variable directly.
+
+(i) Using ref
+
+The ref keyword allows you to pass a variable by reference. The variable must be initialized before it is passed to the method.
+
+Example of Pass by Reference with ref:
+
+--------------------------------------------------------------------------------------------
+void ModifyValue(ref int number)
+{
+    number = 10; // This change affects the original variable
+}
+
+int originalValue = 5;
+ModifyValue(ref originalValue);
+Console.WriteLine(originalValue); // Output: 10
+--------------------------------------------------------------------------------------------
+
+In this example, originalValue is modified to 10 because number is a reference to originalValue.
+
+(ii) Using out
+
+The out keyword is similar to ref, but it is used when you want to return multiple values from a method. The variable passed as an out parameter does not need to be initialized before being passed, but it must be assigned a value before the method returns.
+
+Example of Pass by Reference with out:
+
+--------------------------------------------------------------------------------------------
+void GetValues(out int number1, out int number2)
+{
+    number1 = 5; // Must be assigned before returning
+    number2 = 10;
+}
+
+int value1, value2;
+GetValues(out value1, out value2);
+Console.WriteLine(value1); // Output: 5
+Console.WriteLine(value2); // Output: 10
+--------------------------------------------------------------------------------------------
+
+In this example, value1 and value2 are assigned values inside the GetValues method, and those values are reflected in the original variables after the method call.
+
+Summary
+
+Pass by Value: A copy of the variable is passed to the method. Changes to the parameter do not affect the original variable.
+
+Pass by Reference (ref): A reference to the original variable is passed. Changes to the parameter affect the original variable. The variable must be initialized before being passed.
+
+Pass by Reference (out): Similar to ref, but used for returning multiple values. The variable does not need to be initialized before being passed, but it must be assigned a value before the method returns.
+
+Understanding these concepts is crucial for managing data and memory effectively in C#.
+
+*/
+
+/* var & dynamic keyword
+
+In C#, both the var and dynamic keywords are used for variable declaration, but they serve different purposes and have different behaviors. Here’s a detailed explanation of each:
+
+-> var Keyword
+
+Type Inference: The var keyword is used for implicit type declaration. When you declare a variable with var, the compiler infers the type of the variable based on the assigned value at compile time. This means that the type is determined when the code is compiled, not at runtime.
+
+Static Typing: Variables declared with var are statically typed. Once the type is inferred, it cannot change. You cannot assign a value of a different type to the same variable later.
+
+Scope: The var keyword can only be used when the variable is initialized at the time of declaration.
+
+Example of var:
+
+var number = 10; // The compiler infers that 'number' is of type int
+var name = "John"; // The compiler infers that 'name' is of type string
+
+// number = "Hello"; // This would cause a compile-time error because 'number' is of type int
+
+
+*/

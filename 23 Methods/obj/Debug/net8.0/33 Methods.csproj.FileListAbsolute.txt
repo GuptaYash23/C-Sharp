@@ -1,15 +1,14 @@
-C:\Users\Yash\OneDrive\Desktop\Languages\C# Shared\C-Sharp\23 Methods\bin\Debug\net8.0\33 Methods.exe
-C:\Users\Yash\OneDrive\Desktop\Languages\C# Shared\C-Sharp\23 Methods\bin\Debug\net8.0\33 Methods.deps.json
-C:\Users\Yash\OneDrive\Desktop\Languages\C# Shared\C-Sharp\23 Methods\bin\Debug\net8.0\33 Methods.runtimeconfig.json
-C:\Users\Yash\OneDrive\Desktop\Languages\C# Shared\C-Sharp\23 Methods\bin\Debug\net8.0\33 Methods.dll
-C:\Users\Yash\OneDrive\Desktop\Languages\C# Shared\C-Sharp\23 Methods\bin\Debug\net8.0\33 Methods.pdb
-C:\Users\Yash\OneDrive\Desktop\Languages\C# Shared\C-Sharp\23 Methods\obj\Debug\net8.0\33 Methods.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Yash\OneDrive\Desktop\Languages\C# Shared\C-Sharp\23 Methods\obj\Debug\net8.0\33 Methods.AssemblyInfoInputs.cache
-C:\Users\Yash\OneDrive\Desktop\Languages\C# Shared\C-Sharp\23 Methods\obj\Debug\net8.0\33 Methods.AssemblyInfo.cs
-C:\Users\Yash\OneDrive\Desktop\Languages\C# Shared\C-Sharp\23 Methods\obj\Debug\net8.0\33 Methods.csproj.CoreCompileInputs.cache
-C:\Users\Yash\OneDrive\Desktop\Languages\C# Shared\C-Sharp\23 Methods\obj\Debug\net8.0\33 Methods.sourcelink.json
-C:\Users\Yash\OneDrive\Desktop\Languages\C# Shared\C-Sharp\23 Methods\obj\Debug\net8.0\33 Methods.dll
-C:\Users\Yash\OneDrive\Desktop\Languages\C# Shared\C-Sharp\23 Methods\obj\Debug\net8.0\refint\33 Methods.dll
-C:\Users\Yash\OneDrive\Desktop\Languages\C# Shared\C-Sharp\23 Methods\obj\Debug\net8.0\33 Methods.pdb
-C:\Users\Yash\OneDrive\Desktop\Languages\C# Shared\C-Sharp\23 Methods\obj\Debug\net8.0\33 Methods.genruntimeconfig.cache
-C:\Users\Yash\OneDrive\Desktop\Languages\C# Shared\C-Sharp\23 Methods\obj\Debug\net8.0\ref\33 Methods.dll
+C:\Users\Yash.gupta\Desktop\C#\23 Methods\bin\Debug\net8.0\33 Methods.exe
+C:\Users\Yash.gupta\Desktop\C#\23 Methods\bin\Debug\net8.0\33 Methods.deps.json
+C:\Users\Yash.gupta\Desktop\C#\23 Methods\bin\Debug\net8.0\33 Methods.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\23 Methods\bin\Debug\net8.0\33 Methods.dll
+C:\Users\Yash.gupta\Desktop\C#\23 Methods\bin\Debug\net8.0\33 Methods.pdb
+C:\Users\Yash.gupta\Desktop\C#\23 Methods\obj\Debug\net8.0\33 Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\23 Methods\obj\Debug\net8.0\33 Methods.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\23 Methods\obj\Debug\net8.0\33 Methods.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\23 Methods\obj\Debug\net8.0\33 Methods.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\23 Methods\obj\Debug\net8.0\33 Methods.dll
+C:\Users\Yash.gupta\Desktop\C#\23 Methods\obj\Debug\net8.0\refint\33 Methods.dll
+C:\Users\Yash.gupta\Desktop\C#\23 Methods\obj\Debug\net8.0\33 Methods.pdb
+C:\Users\Yash.gupta\Desktop\C#\23 Methods\obj\Debug\net8.0\33 Methods.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\23 Methods\obj\Debug\net8.0\ref\33 Methods.dll

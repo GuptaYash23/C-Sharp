@@ -2,64 +2,63 @@
 
 class Program
 {
-    // Static method (does not require an instance of the class)
-    public static void DisplayWelcomeMessage()
+    // Static method: no need for an instance to call this method
+    static int Square(int num)
     {
-        Console.WriteLine("Welcome to the C# Methods Example!");
+        return num * num;
     }
 
-    // Instance method (requires an instance of the class)
-    public void Add(int a, int b)
+    // Instance method: you need an object to call this method
+    public int Add(int a, int b)
     {
-        int result = a + b;
-        Console.WriteLine("The sum is: " + result);
+        return a + b;
     }
 
-    // Method overloading (same method name with different parameters)
-    public void PrintDetails(string name)
+    // Method overloading: two methods with the same name but different parameters
+    public int Add(int a, int b, int c)
     {
-        Console.WriteLine("Name: " + name);
+        return a + b + c;
     }
 
-    public void PrintDetails(string name, int age)
+    public double Add(double a, double b)
     {
-        Console.WriteLine("Name: " + name + ", Age: " + age);
+        return a + b;
     }
 
-    // Method with ref parameter (passing by reference)
-    public void MultiplyByTwo(ref int num)
+    // Recursive method: calculates the factorial of a number
+    static int Factorial(int n)
     {
-        num *= 2;
+        if (n == 0)
+            return 1;
+        else
+            return n * Factorial(n - 1);  // Recursively calls itself
     }
 
-    // Method with optional parameter
-    public void GreetUser(string greeting = "Hello, User!")
+    static void Main()
     {
-        Console.WriteLine(greeting);
-    }
+        // Calling the static method
+        int squareResult = Square(4);
+        Console.WriteLine("Square of 4 is: " + squareResult);  // Output: 16
 
-    static void Main(string[] args)
-    {
-        // Call the static method
-        DisplayWelcomeMessage();
-
-        // Create an instance of the class
+        // Creating an instance of Program to call instance methods
         Program program = new Program();
 
-        // Call the instance method
-        program.Add(10, 20);
+        // Calling the instance method Add (with 2 integers)
+        int sumResult1 = program.Add(3, 5);
+        Console.WriteLine("Sum of 3 and 5 is: " + sumResult1);  // Output: 8
 
-        // Call overloaded methods
-        program.PrintDetails("John");
-        program.PrintDetails("John", 25);
+        // Calling the overloaded Add method (with 3 integers)
+        int sumResult2 = program.Add(3, 5, 7);
+        Console.WriteLine("Sum of 3, 5, and 7 is: " + sumResult2);  // Output: 15
 
-        // Call method with ref parameter
-        int number = 5;
-        program.MultiplyByTwo(ref number);
-        Console.WriteLine("Number after multiplication: " + number);
+        // Calling the overloaded Add method (with 2 doubles)
+        double sumResult3 = program.Add(3.2, 4.5);
+        Console.WriteLine("Sum of 3.2 and 4.5 is: " + sumResult3);  // Output: 7.7
 
-        // Call method with optional parameter
-        program.GreetUser(); // Uses the default value
-        program.GreetUser("Good morning, Alice!"); // Uses the provided value
+        // Calling the recursive method Factorial
+        int factorialResult = Factorial(5);
+        Console.WriteLine("Factorial of 5 is: " + factorialResult);  // Output: 120
+
+        Console.ReadLine();
     }
 }

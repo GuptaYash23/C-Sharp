@@ -16,17 +16,17 @@ Method Body: The block of code that executes when the method is called.
 
 Syntax of a Method:
 
---------------------------------------------------------------------------------------
+------------------------------------------------------
 return_type MethodName(parameter_list)
 {
     // method body
     // return statement (if not void)
 }
---------------------------------------------------------------------------------------
+------------------------------------------------------
 
 Example of a Method:
 
---------------------------------------------------------------------------------------
+------------------------------------------------------
 class Program
 {
     // Method that returns the sum of two integers
@@ -42,7 +42,7 @@ class Program
         Console.WriteLine("The sum is: " + result);
     }
 }
---------------------------------------------------------------------------------------
+------------------------------------------------------
 
 
 In C#, methods (also called functions) are blocks of code that perform specific tasks and can be reused multiple times throughout a program. They help improve code organization, readability, and maintainability by encapsulating reusable logic in a single place.
@@ -61,17 +61,17 @@ Method Body: The block of code that executes when the method is called.
 
 Syntax of a Method:
 
---------------------------------------------------------------------------------------
+------------------------------------------------------
 return_type MethodName(parameter_list)
 {
     // method body
     // return statement (if not void)
 }
---------------------------------------------------------------------------------------
+------------------------------------------------------
 
 Example of a Method:
 
---------------------------------------------------------------------------------------
+------------------------------------------------------
 class Program
 {
     // Method that returns the sum of two integers
@@ -87,7 +87,7 @@ class Program
         Console.WriteLine("The sum is: " + result);
     }
 }
---------------------------------------------------------------------------------------
+------------------------------------------------------
 
 Explanation:
 
@@ -107,12 +107,12 @@ The return type specifies what type of value the method returns. For example, if
 
 Example:
 
---------------------------------------------------------------------------------------
+------------------------------------------------------
 void PrintMessage() // No return value
 {
     Console.WriteLine("Hello, World!");
 }
---------------------------------------------------------------------------------------
+------------------------------------------------------
 
 2. Parameters:
 
@@ -120,43 +120,28 @@ Parameters allow you to pass data into a method. These are specified in parenthe
 
 Example:
 
---------------------------------------------------------------------------------------
+------------------------------------------------------
 int Multiply(int x, int y) // Method with two parameters
 {
     return x * y;
 }
---------------------------------------------------------------------------------------
-
-Parameter Passing Types
-
-By value (default): The method gets a copy of the argument.
-
-By reference: Using the ref or out keyword, the method can modify the caller's variable.
-
-Example (by reference using ref):
-
---------------------------------------------------------------------------------------
-public void MultiplyByTwo(ref int num)
-{
-    num *= 2;
-}
---------------------------------------------------------------------------------------
+------------------------------------------------------
 
 3. Method Call:
 
 You call a method by using its name followed by parentheses, passing in arguments if required.
 
---------------------------------------------------------------------------------------
+------------------------------------------------------
 int product = Multiply(4, 5); // Calls Multiply method with arguments 4 and 5
---------------------------------------------------------------------------------------
+------------------------------------------------------
 
-4. Method Overloading:
+Method Overloading:
 
 C# allows method overloading, meaning you can define multiple methods with the same name, but different parameter lists (either in number, type, or order of parameters).
 
 Example:
 
---------------------------------------------------------------------------------------
+------------------------------------------------------
 class Program
 {
     static int Add(int a, int b)
@@ -175,30 +160,21 @@ class Program
         Console.WriteLine(Add(3.5, 4.2));     // Calls Add(double, double), output: 7.7
     }
 }
---------------------------------------------------------------------------------------
+------------------------------------------------------
 
-5. Types of Methods:
+Types of Methods:
 
 1. Instance Methods: These are methods that operate on instances (objects) of a class. You need to create an instance of the class to call these methods.
 
 2. Static Methods: These belong to the class itself and can be called without creating an instance of the class.
 
-Example:
-
---------------------------------------------------------------------------------------
-public static void ShowInfo()
-{
-    Console.WriteLine("This is a static method.");
-}
---------------------------------------------------------------------------------------
-
-6. Recursion in Methods:
+Recursion in Methods:
 
 A method can call itself, a concept known as recursion. This is useful for problems like factorial calculation, Fibonacci series, etc.
 
 Example: Recursive method to calculate factorial:
 
---------------------------------------------------------------------------------------
+------------------------------------------------------s
 class Program
 {
     static int Factorial(int n)
@@ -214,28 +190,6 @@ class Program
         Console.WriteLine(Factorial(5));  // Output: 120
     }
 }
---------------------------------------------------------------------------------------
-
-7. Optional Parameters
-
-Methods can have optional parameters, meaning arguments can be omitted when calling the method, and default values will be used.
-
---------------------------------------------------------------------------------------
-public void PrintMessage(string message = "Default Message")
-{
-    Console.WriteLine(message);
-}
---------------------------------------------------------------------------------------
-
-8. Expression-Bodied Methods
-
-For simple methods, you can use an arrow (=>) to define the method in one line.
-
-Example:
-
---------------------------------------------------------------------------------------
-public int Square(int x) => x * x;
---------------------------------------------------------------------------------------
 
 Summary:
 

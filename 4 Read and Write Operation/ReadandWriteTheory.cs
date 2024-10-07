@@ -119,3 +119,107 @@ Refactoring: During refactoring, you may move or remove certain parts of your co
 
 */
 
+/* Escape Sequences
+
+In C#, escape sequences are special character combinations that allow you to represent characters that are difficult or impossible to include directly in a string. They are typically used to insert characters like newlines, tabs, or quotes into strings. Escape sequences begin with a backslash (\), followed by a specific character that indicates the type of escape sequence.
+
+Here are some common escape sequences in C#:
+
+1. Newline: \n
+Inserts a new line in the string.
+
+--------------------------------------------------------------------------------------------
+string text = "Hello,\nWorld!";
+// Output: 
+// Hello,
+// World!
+--------------------------------------------------------------------------------------------
+
+2. Tab: \t
+Inserts a horizontal tab in the string.
+
+--------------------------------------------------------------------------------------------
+string text = "Hello,\tWorld!";
+// Output: "Hello,    World!" (with a tab space)
+--------------------------------------------------------------------------------------------
+
+3. Backslash: \\
+Inserts a backslash character.
+
+--------------------------------------------------------------------------------------------
+string text = "This is a backslash: \\";
+--------------------------------------------------------------------------------------------
+
+4. Single Quote: \'
+Inserts a single quote character.
+
+--------------------------------------------------------------------------------------------
+string text = "It\'s a sunny day.";
+--------------------------------------------------------------------------------------------
+
+5. Double Quote: \"
+Inserts a double quote character.
+
+--------------------------------------------------------------------------------------------
+string text = "He said, \"Hello!\"";
+--------------------------------------------------------------------------------------------
+
+6. Carriage Return: \r
+Moves the cursor to the beginning of the line without advancing to the next line.
+
+--------------------------------------------------------------------------------------------
+string text = "Hello,\rWorld!";
+// Output: "World!" (overwrites "Hello,")
+--------------------------------------------------------------------------------------------
+
+7. Form Feed: \f
+Advances the cursor to the next page (not commonly used in modern applications).
+
+8. Vertical Tab: \v
+Inserts a vertical tab (not commonly used).
+
+9. Unicode Character: \uXXXX
+Inserts a Unicode character, where XXXX is the hexadecimal code for the character.
+
+10. Octal Value: \0 (and other octal values)
+Represents a character based on its octal value (not commonly used in C#).
+
+Escape sequences are essential for formatting strings and including special characters in your output. When using escape sequences, it's important to remember that they only work in regular string literals (enclosed in double quotes) and not in verbatim string literals (which use the @ symbol). In verbatim strings, you would need to double the backslashes for them to be recognized, as shown below:
+
+--------------------------------------------------------------------------------------------
+string path = @"C:\Users\Example\Documents\file.txt"; // No need to escape backslashes
+--------------------------------------------------------------------------------------------
+
+*/
+
+/* Verbatim literal
+
+In C#, a verbatim string literal is a string that is prefixed with the @ symbol. This allows the string to span multiple lines and to include special characters, such as backslashes (\), without needing to escape them. Verbatim string literals are particularly useful for file paths, regular expressions, or any other scenario where you want to include characters that would normally require escaping in a regular string.
+
+Here’s an example of a verbatim string literal:
+
+--------------------------------------------------------------------------------------------
+string filePath = @"C:\Users\Example\Documents\file.txt";
+--------------------------------------------------------------------------------------------
+
+In this example, the backslashes in the file path do not need to be escaped, making the string easier to read and write.
+
+You can also use verbatim string literals to create multi-line strings:
+
+--------------------------------------------------------------------------------------------
+string multiLineString = @"This is a string
+that spans multiple lines
+without needing to use escape characters.";
+--------------------------------------------------------------------------------------------
+
+In this case, the line breaks are preserved in the string.
+
+However, if you want to include a double quote (") in a verbatim string, you need to escape it by using two double quotes:
+
+--------------------------------------------------------------------------------------------
+string quote = @"He said, ""Hello, World!""";
+--------------------------------------------------------------------------------------------
+
+This will result in the string: He said, "Hello, World!".
+*/
+

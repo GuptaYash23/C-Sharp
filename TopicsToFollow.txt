@@ -1,0 +1,14 @@
+var keyword
+SortedList
+Dictionary
+Hashset
+LinkedList
+SortedDictionary
+SortedSet
+Observable Collection
+Tuple
+Design Patterns
+Async Await
+Ref keyword
+Records
+LINQ

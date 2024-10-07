@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\16 Decision Making Statement\obj\Debug\net8.0\Decision Making Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\16 Decision Making Statement\obj\Debug\net8.0\Decision Making Statement.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\16 Decision Making Statement\obj\Debug\net8.0\Decision Making Statement.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\16 Decision Making Statement\obj\Debug\net8.0\Decision Making Statement.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\16 Decision Making Statement\bin\Debug\net8.0\Decision Making Statement.exe
+C:\Users\Yash.gupta\Desktop\C#\16 Decision Making Statement\bin\Debug\net8.0\Decision Making Statement.deps.json
+C:\Users\Yash.gupta\Desktop\C#\16 Decision Making Statement\bin\Debug\net8.0\Decision Making Statement.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\16 Decision Making Statement\bin\Debug\net8.0\Decision Making Statement.dll
+C:\Users\Yash.gupta\Desktop\C#\16 Decision Making Statement\bin\Debug\net8.0\Decision Making Statement.pdb
+C:\Users\Yash.gupta\Desktop\C#\16 Decision Making Statement\obj\Debug\net8.0\Decision Making Statement.dll
+C:\Users\Yash.gupta\Desktop\C#\16 Decision Making Statement\obj\Debug\net8.0\refint\Decision Making Statement.dll
+C:\Users\Yash.gupta\Desktop\C#\16 Decision Making Statement\obj\Debug\net8.0\Decision Making Statement.pdb
+C:\Users\Yash.gupta\Desktop\C#\16 Decision Making Statement\obj\Debug\net8.0\Decision Making Statement.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\16 Decision Making Statement\obj\Debug\net8.0\ref\Decision Making Statement.dll

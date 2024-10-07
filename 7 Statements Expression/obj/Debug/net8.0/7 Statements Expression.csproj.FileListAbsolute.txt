@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\7 Statements Expression\bin\Debug\net8.0\7 Statements Expression.exe
+C:\Users\Yash.gupta\Desktop\C#\7 Statements Expression\bin\Debug\net8.0\7 Statements Expression.deps.json
+C:\Users\Yash.gupta\Desktop\C#\7 Statements Expression\bin\Debug\net8.0\7 Statements Expression.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\7 Statements Expression\bin\Debug\net8.0\7 Statements Expression.dll
+C:\Users\Yash.gupta\Desktop\C#\7 Statements Expression\bin\Debug\net8.0\7 Statements Expression.pdb
+C:\Users\Yash.gupta\Desktop\C#\7 Statements Expression\obj\Debug\net8.0\7 Statements Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\7 Statements Expression\obj\Debug\net8.0\7 Statements Expression.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\7 Statements Expression\obj\Debug\net8.0\7 Statements Expression.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\7 Statements Expression\obj\Debug\net8.0\7 Statements Expression.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\7 Statements Expression\obj\Debug\net8.0\7 Statements Expression.dll
+C:\Users\Yash.gupta\Desktop\C#\7 Statements Expression\obj\Debug\net8.0\refint\7 Statements Expression.dll
+C:\Users\Yash.gupta\Desktop\C#\7 Statements Expression\obj\Debug\net8.0\7 Statements Expression.pdb
+C:\Users\Yash.gupta\Desktop\C#\7 Statements Expression\obj\Debug\net8.0\7 Statements Expression.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\7 Statements Expression\obj\Debug\net8.0\ref\7 Statements Expression.dll
