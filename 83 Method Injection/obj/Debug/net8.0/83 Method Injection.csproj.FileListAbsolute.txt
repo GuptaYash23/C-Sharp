@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\83 Method Injection\bin\Debug\net8.0\83 Method Injection.exe
+C:\Users\Yash.gupta\Desktop\C#\83 Method Injection\bin\Debug\net8.0\83 Method Injection.deps.json
+C:\Users\Yash.gupta\Desktop\C#\83 Method Injection\bin\Debug\net8.0\83 Method Injection.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\83 Method Injection\bin\Debug\net8.0\83 Method Injection.dll
+C:\Users\Yash.gupta\Desktop\C#\83 Method Injection\bin\Debug\net8.0\83 Method Injection.pdb
+C:\Users\Yash.gupta\Desktop\C#\83 Method Injection\obj\Debug\net8.0\83 Method Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\83 Method Injection\obj\Debug\net8.0\83 Method Injection.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\83 Method Injection\obj\Debug\net8.0\83 Method Injection.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\83 Method Injection\obj\Debug\net8.0\83 Method Injection.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\83 Method Injection\obj\Debug\net8.0\83 Method Injection.dll
+C:\Users\Yash.gupta\Desktop\C#\83 Method Injection\obj\Debug\net8.0\refint\83 Method Injection.dll
+C:\Users\Yash.gupta\Desktop\C#\83 Method Injection\obj\Debug\net8.0\83 Method Injection.pdb
+C:\Users\Yash.gupta\Desktop\C#\83 Method Injection\obj\Debug\net8.0\83 Method Injection.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\83 Method Injection\obj\Debug\net8.0\ref\83 Method Injection.dll

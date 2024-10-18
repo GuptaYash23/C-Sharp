@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\63 Partial Class\bin\Debug\net8.0\63 Partial Class.exe
+C:\Users\Yash.gupta\Desktop\C#\63 Partial Class\bin\Debug\net8.0\63 Partial Class.deps.json
+C:\Users\Yash.gupta\Desktop\C#\63 Partial Class\bin\Debug\net8.0\63 Partial Class.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\63 Partial Class\bin\Debug\net8.0\63 Partial Class.dll
+C:\Users\Yash.gupta\Desktop\C#\63 Partial Class\bin\Debug\net8.0\63 Partial Class.pdb
+C:\Users\Yash.gupta\Desktop\C#\63 Partial Class\obj\Debug\net8.0\63 Partial Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\63 Partial Class\obj\Debug\net8.0\63 Partial Class.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\63 Partial Class\obj\Debug\net8.0\63 Partial Class.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\63 Partial Class\obj\Debug\net8.0\63 Partial Class.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\63 Partial Class\obj\Debug\net8.0\63 Partial Class.dll
+C:\Users\Yash.gupta\Desktop\C#\63 Partial Class\obj\Debug\net8.0\refint\63 Partial Class.dll
+C:\Users\Yash.gupta\Desktop\C#\63 Partial Class\obj\Debug\net8.0\63 Partial Class.pdb
+C:\Users\Yash.gupta\Desktop\C#\63 Partial Class\obj\Debug\net8.0\63 Partial Class.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\63 Partial Class\obj\Debug\net8.0\ref\63 Partial Class.dll

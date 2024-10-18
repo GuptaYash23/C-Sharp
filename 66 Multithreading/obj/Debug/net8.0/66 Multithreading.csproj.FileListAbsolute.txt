@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\66 Multithreading\obj\Debug\net8.0\66 Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\66 Multithreading\obj\Debug\net8.0\66 Multithreading.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\66 Multithreading\obj\Debug\net8.0\66 Multithreading.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\66 Multithreading\obj\Debug\net8.0\66 Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\66 Multithreading\bin\Debug\net8.0\66 Multithreading.exe
+C:\Users\Yash.gupta\Desktop\C#\66 Multithreading\bin\Debug\net8.0\66 Multithreading.deps.json
+C:\Users\Yash.gupta\Desktop\C#\66 Multithreading\bin\Debug\net8.0\66 Multithreading.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\66 Multithreading\bin\Debug\net8.0\66 Multithreading.dll
+C:\Users\Yash.gupta\Desktop\C#\66 Multithreading\bin\Debug\net8.0\66 Multithreading.pdb
+C:\Users\Yash.gupta\Desktop\C#\66 Multithreading\obj\Debug\net8.0\66 Multithreading.dll
+C:\Users\Yash.gupta\Desktop\C#\66 Multithreading\obj\Debug\net8.0\refint\66 Multithreading.dll
+C:\Users\Yash.gupta\Desktop\C#\66 Multithreading\obj\Debug\net8.0\66 Multithreading.pdb
+C:\Users\Yash.gupta\Desktop\C#\66 Multithreading\obj\Debug\net8.0\66 Multithreading.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\66 Multithreading\obj\Debug\net8.0\ref\66 Multithreading.dll

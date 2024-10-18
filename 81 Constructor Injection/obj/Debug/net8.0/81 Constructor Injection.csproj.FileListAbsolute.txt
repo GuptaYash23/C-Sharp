@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\81 Constructor Injection\bin\Debug\net8.0\81 Constructor Injection.exe
+C:\Users\Yash.gupta\Desktop\C#\81 Constructor Injection\bin\Debug\net8.0\81 Constructor Injection.deps.json
+C:\Users\Yash.gupta\Desktop\C#\81 Constructor Injection\bin\Debug\net8.0\81 Constructor Injection.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\81 Constructor Injection\bin\Debug\net8.0\81 Constructor Injection.dll
+C:\Users\Yash.gupta\Desktop\C#\81 Constructor Injection\bin\Debug\net8.0\81 Constructor Injection.pdb
+C:\Users\Yash.gupta\Desktop\C#\81 Constructor Injection\obj\Debug\net8.0\81 Constructor Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\81 Constructor Injection\obj\Debug\net8.0\81 Constructor Injection.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\81 Constructor Injection\obj\Debug\net8.0\81 Constructor Injection.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\81 Constructor Injection\obj\Debug\net8.0\81 Constructor Injection.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\81 Constructor Injection\obj\Debug\net8.0\81 Constructor Injection.dll
+C:\Users\Yash.gupta\Desktop\C#\81 Constructor Injection\obj\Debug\net8.0\refint\81 Constructor Injection.dll
+C:\Users\Yash.gupta\Desktop\C#\81 Constructor Injection\obj\Debug\net8.0\81 Constructor Injection.pdb
+C:\Users\Yash.gupta\Desktop\C#\81 Constructor Injection\obj\Debug\net8.0\81 Constructor Injection.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\81 Constructor Injection\obj\Debug\net8.0\ref\81 Constructor Injection.dll

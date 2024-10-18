@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\74 Guid\bin\Debug\net8.0\74 Guid.exe
+C:\Users\Yash.gupta\Desktop\C#\74 Guid\bin\Debug\net8.0\74 Guid.deps.json
+C:\Users\Yash.gupta\Desktop\C#\74 Guid\bin\Debug\net8.0\74 Guid.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\74 Guid\bin\Debug\net8.0\74 Guid.dll
+C:\Users\Yash.gupta\Desktop\C#\74 Guid\bin\Debug\net8.0\74 Guid.pdb
+C:\Users\Yash.gupta\Desktop\C#\74 Guid\obj\Debug\net8.0\74 Guid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\74 Guid\obj\Debug\net8.0\74 Guid.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\74 Guid\obj\Debug\net8.0\74 Guid.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\74 Guid\obj\Debug\net8.0\74 Guid.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\74 Guid\obj\Debug\net8.0\74 Guid.dll
+C:\Users\Yash.gupta\Desktop\C#\74 Guid\obj\Debug\net8.0\refint\74 Guid.dll
+C:\Users\Yash.gupta\Desktop\C#\74 Guid\obj\Debug\net8.0\74 Guid.pdb
+C:\Users\Yash.gupta\Desktop\C#\74 Guid\obj\Debug\net8.0\74 Guid.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\74 Guid\obj\Debug\net8.0\ref\74 Guid.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "76 Null Coalesce Operator/1.0.0": {
+        "runtime": {
+          "76 Null Coalesce Operator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "76 Null Coalesce Operator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

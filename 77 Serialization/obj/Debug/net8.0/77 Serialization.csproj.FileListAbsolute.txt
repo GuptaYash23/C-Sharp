@@ -1,0 +1,4 @@
+C:\Users\Yash.gupta\Desktop\C#\77 Serialization\obj\Debug\net8.0\77 Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\77 Serialization\obj\Debug\net8.0\77 Serialization.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\77 Serialization\obj\Debug\net8.0\77 Serialization.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\77 Serialization\obj\Debug\net8.0\77 Serialization.csproj.CoreCompileInputs.cache

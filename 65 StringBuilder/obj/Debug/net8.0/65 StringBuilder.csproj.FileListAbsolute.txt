@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\65 StringBuilder\bin\Debug\net8.0\65 StringBuilder.exe
+C:\Users\Yash.gupta\Desktop\C#\65 StringBuilder\bin\Debug\net8.0\65 StringBuilder.deps.json
+C:\Users\Yash.gupta\Desktop\C#\65 StringBuilder\bin\Debug\net8.0\65 StringBuilder.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\65 StringBuilder\bin\Debug\net8.0\65 StringBuilder.dll
+C:\Users\Yash.gupta\Desktop\C#\65 StringBuilder\bin\Debug\net8.0\65 StringBuilder.pdb
+C:\Users\Yash.gupta\Desktop\C#\65 StringBuilder\obj\Debug\net8.0\65 StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\65 StringBuilder\obj\Debug\net8.0\65 StringBuilder.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\65 StringBuilder\obj\Debug\net8.0\65 StringBuilder.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\65 StringBuilder\obj\Debug\net8.0\65 StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\65 StringBuilder\obj\Debug\net8.0\65 StringBuilder.dll
+C:\Users\Yash.gupta\Desktop\C#\65 StringBuilder\obj\Debug\net8.0\refint\65 StringBuilder.dll
+C:\Users\Yash.gupta\Desktop\C#\65 StringBuilder\obj\Debug\net8.0\65 StringBuilder.pdb
+C:\Users\Yash.gupta\Desktop\C#\65 StringBuilder\obj\Debug\net8.0\65 StringBuilder.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\65 StringBuilder\obj\Debug\net8.0\ref\65 StringBuilder.dll

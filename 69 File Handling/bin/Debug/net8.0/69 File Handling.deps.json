@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "69 File Handling/1.0.0": {
+        "runtime": {
+          "69 File Handling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "69 File Handling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

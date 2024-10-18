@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\68 Structures\bin\Debug\net8.0\68 Structures.exe
+C:\Users\Yash.gupta\Desktop\C#\68 Structures\bin\Debug\net8.0\68 Structures.deps.json
+C:\Users\Yash.gupta\Desktop\C#\68 Structures\bin\Debug\net8.0\68 Structures.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\68 Structures\bin\Debug\net8.0\68 Structures.dll
+C:\Users\Yash.gupta\Desktop\C#\68 Structures\bin\Debug\net8.0\68 Structures.pdb
+C:\Users\Yash.gupta\Desktop\C#\68 Structures\obj\Debug\net8.0\68 Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\68 Structures\obj\Debug\net8.0\68 Structures.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\68 Structures\obj\Debug\net8.0\68 Structures.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\68 Structures\obj\Debug\net8.0\68 Structures.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\68 Structures\obj\Debug\net8.0\68 Structures.dll
+C:\Users\Yash.gupta\Desktop\C#\68 Structures\obj\Debug\net8.0\refint\68 Structures.dll
+C:\Users\Yash.gupta\Desktop\C#\68 Structures\obj\Debug\net8.0\68 Structures.pdb
+C:\Users\Yash.gupta\Desktop\C#\68 Structures\obj\Debug\net8.0\68 Structures.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\68 Structures\obj\Debug\net8.0\ref\68 Structures.dll

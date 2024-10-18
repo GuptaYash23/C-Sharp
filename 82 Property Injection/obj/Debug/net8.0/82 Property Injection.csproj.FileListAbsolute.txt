@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\82 Property Injection\bin\Debug\net8.0\82 Property Injection.exe
+C:\Users\Yash.gupta\Desktop\C#\82 Property Injection\bin\Debug\net8.0\82 Property Injection.deps.json
+C:\Users\Yash.gupta\Desktop\C#\82 Property Injection\bin\Debug\net8.0\82 Property Injection.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\82 Property Injection\bin\Debug\net8.0\82 Property Injection.dll
+C:\Users\Yash.gupta\Desktop\C#\82 Property Injection\bin\Debug\net8.0\82 Property Injection.pdb
+C:\Users\Yash.gupta\Desktop\C#\82 Property Injection\obj\Debug\net8.0\82 Property Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\82 Property Injection\obj\Debug\net8.0\82 Property Injection.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\82 Property Injection\obj\Debug\net8.0\82 Property Injection.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\82 Property Injection\obj\Debug\net8.0\82 Property Injection.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\82 Property Injection\obj\Debug\net8.0\82 Property Injection.dll
+C:\Users\Yash.gupta\Desktop\C#\82 Property Injection\obj\Debug\net8.0\refint\82 Property Injection.dll
+C:\Users\Yash.gupta\Desktop\C#\82 Property Injection\obj\Debug\net8.0\82 Property Injection.pdb
+C:\Users\Yash.gupta\Desktop\C#\82 Property Injection\obj\Debug\net8.0\82 Property Injection.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\82 Property Injection\obj\Debug\net8.0\ref\82 Property Injection.dll

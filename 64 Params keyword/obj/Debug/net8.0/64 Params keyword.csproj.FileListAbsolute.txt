@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\64 Params keyword\obj\Debug\net8.0\64 Params keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\64 Params keyword\obj\Debug\net8.0\64 Params keyword.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\64 Params keyword\obj\Debug\net8.0\64 Params keyword.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\64 Params keyword\obj\Debug\net8.0\64 Params keyword.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\64 Params keyword\bin\Debug\net8.0\64 Params keyword.exe
+C:\Users\Yash.gupta\Desktop\C#\64 Params keyword\bin\Debug\net8.0\64 Params keyword.deps.json
+C:\Users\Yash.gupta\Desktop\C#\64 Params keyword\bin\Debug\net8.0\64 Params keyword.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\64 Params keyword\bin\Debug\net8.0\64 Params keyword.dll
+C:\Users\Yash.gupta\Desktop\C#\64 Params keyword\bin\Debug\net8.0\64 Params keyword.pdb
+C:\Users\Yash.gupta\Desktop\C#\64 Params keyword\obj\Debug\net8.0\64 Params keyword.dll
+C:\Users\Yash.gupta\Desktop\C#\64 Params keyword\obj\Debug\net8.0\refint\64 Params keyword.dll
+C:\Users\Yash.gupta\Desktop\C#\64 Params keyword\obj\Debug\net8.0\64 Params keyword.pdb
+C:\Users\Yash.gupta\Desktop\C#\64 Params keyword\obj\Debug\net8.0\64 Params keyword.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\64 Params keyword\obj\Debug\net8.0\ref\64 Params keyword.dll

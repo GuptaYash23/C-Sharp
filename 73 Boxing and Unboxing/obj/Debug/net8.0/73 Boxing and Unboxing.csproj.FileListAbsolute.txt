@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\73 Boxing and Unboxing\bin\Debug\net8.0\73 Boxing and Unboxing.exe
+C:\Users\Yash.gupta\Desktop\C#\73 Boxing and Unboxing\bin\Debug\net8.0\73 Boxing and Unboxing.deps.json
+C:\Users\Yash.gupta\Desktop\C#\73 Boxing and Unboxing\bin\Debug\net8.0\73 Boxing and Unboxing.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\73 Boxing and Unboxing\bin\Debug\net8.0\73 Boxing and Unboxing.dll
+C:\Users\Yash.gupta\Desktop\C#\73 Boxing and Unboxing\bin\Debug\net8.0\73 Boxing and Unboxing.pdb
+C:\Users\Yash.gupta\Desktop\C#\73 Boxing and Unboxing\obj\Debug\net8.0\73 Boxing and Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\73 Boxing and Unboxing\obj\Debug\net8.0\73 Boxing and Unboxing.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\73 Boxing and Unboxing\obj\Debug\net8.0\73 Boxing and Unboxing.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\73 Boxing and Unboxing\obj\Debug\net8.0\73 Boxing and Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\73 Boxing and Unboxing\obj\Debug\net8.0\73 Boxing and Unboxing.dll
+C:\Users\Yash.gupta\Desktop\C#\73 Boxing and Unboxing\obj\Debug\net8.0\refint\73 Boxing and Unboxing.dll
+C:\Users\Yash.gupta\Desktop\C#\73 Boxing and Unboxing\obj\Debug\net8.0\73 Boxing and Unboxing.pdb
+C:\Users\Yash.gupta\Desktop\C#\73 Boxing and Unboxing\obj\Debug\net8.0\73 Boxing and Unboxing.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\73 Boxing and Unboxing\obj\Debug\net8.0\ref\73 Boxing and Unboxing.dll

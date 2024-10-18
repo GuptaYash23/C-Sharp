@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\67 ExtensionMethods\obj\Debug\net8.0\67 ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\67 ExtensionMethods\obj\Debug\net8.0\67 ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\67 ExtensionMethods\obj\Debug\net8.0\67 ExtensionMethods.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\67 ExtensionMethods\obj\Debug\net8.0\67 ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\67 ExtensionMethods\bin\Debug\net8.0\67 ExtensionMethods.exe
+C:\Users\Yash.gupta\Desktop\C#\67 ExtensionMethods\bin\Debug\net8.0\67 ExtensionMethods.deps.json
+C:\Users\Yash.gupta\Desktop\C#\67 ExtensionMethods\bin\Debug\net8.0\67 ExtensionMethods.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\67 ExtensionMethods\bin\Debug\net8.0\67 ExtensionMethods.dll
+C:\Users\Yash.gupta\Desktop\C#\67 ExtensionMethods\bin\Debug\net8.0\67 ExtensionMethods.pdb
+C:\Users\Yash.gupta\Desktop\C#\67 ExtensionMethods\obj\Debug\net8.0\67 ExtensionMethods.dll
+C:\Users\Yash.gupta\Desktop\C#\67 ExtensionMethods\obj\Debug\net8.0\refint\67 ExtensionMethods.dll
+C:\Users\Yash.gupta\Desktop\C#\67 ExtensionMethods\obj\Debug\net8.0\67 ExtensionMethods.pdb
+C:\Users\Yash.gupta\Desktop\C#\67 ExtensionMethods\obj\Debug\net8.0\67 ExtensionMethods.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\67 ExtensionMethods\obj\Debug\net8.0\ref\67 ExtensionMethods.dll

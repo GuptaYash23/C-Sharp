@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\69 File Handling\bin\Debug\net8.0\69 File Handling.exe
+C:\Users\Yash.gupta\Desktop\C#\69 File Handling\bin\Debug\net8.0\69 File Handling.deps.json
+C:\Users\Yash.gupta\Desktop\C#\69 File Handling\bin\Debug\net8.0\69 File Handling.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\69 File Handling\bin\Debug\net8.0\69 File Handling.dll
+C:\Users\Yash.gupta\Desktop\C#\69 File Handling\bin\Debug\net8.0\69 File Handling.pdb
+C:\Users\Yash.gupta\Desktop\C#\69 File Handling\obj\Debug\net8.0\69 File Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\69 File Handling\obj\Debug\net8.0\69 File Handling.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\69 File Handling\obj\Debug\net8.0\69 File Handling.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\69 File Handling\obj\Debug\net8.0\69 File Handling.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\69 File Handling\obj\Debug\net8.0\69 File Handling.dll
+C:\Users\Yash.gupta\Desktop\C#\69 File Handling\obj\Debug\net8.0\refint\69 File Handling.dll
+C:\Users\Yash.gupta\Desktop\C#\69 File Handling\obj\Debug\net8.0\69 File Handling.pdb
+C:\Users\Yash.gupta\Desktop\C#\69 File Handling\obj\Debug\net8.0\69 File Handling.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\69 File Handling\obj\Debug\net8.0\ref\69 File Handling.dll
