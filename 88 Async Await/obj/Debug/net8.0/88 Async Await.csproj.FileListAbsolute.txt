@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\88 Async Await\obj\Debug\net8.0\88 Async Await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\88 Async Await\obj\Debug\net8.0\88 Async Await.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\88 Async Await\obj\Debug\net8.0\88 Async Await.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\88 Async Await\obj\Debug\net8.0\88 Async Await.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\88 Async Await\bin\Debug\net8.0\88 Async Await.exe
+C:\Users\Yash.gupta\Desktop\C#\88 Async Await\bin\Debug\net8.0\88 Async Await.deps.json
+C:\Users\Yash.gupta\Desktop\C#\88 Async Await\bin\Debug\net8.0\88 Async Await.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\88 Async Await\bin\Debug\net8.0\88 Async Await.dll
+C:\Users\Yash.gupta\Desktop\C#\88 Async Await\bin\Debug\net8.0\88 Async Await.pdb
+C:\Users\Yash.gupta\Desktop\C#\88 Async Await\obj\Debug\net8.0\88 Async Await.dll
+C:\Users\Yash.gupta\Desktop\C#\88 Async Await\obj\Debug\net8.0\refint\88 Async Await.dll
+C:\Users\Yash.gupta\Desktop\C#\88 Async Await\obj\Debug\net8.0\88 Async Await.pdb
+C:\Users\Yash.gupta\Desktop\C#\88 Async Await\obj\Debug\net8.0\88 Async Await.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\88 Async Await\obj\Debug\net8.0\ref\88 Async Await.dll

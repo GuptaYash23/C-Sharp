@@ -3,48 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12 Assignment Operators", "12 Assignment Operators\12 Assignment Operators.csproj", "{3E2EF7ED-36A7-48E9-954E-404559EF26AC}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13 Increment and Decrement Operators", "13 Increment and Decrement Operators\13 Increment and Decrement Operators.csproj", "{812ED830-AB81-4A8F-A6A5-1048FE72FEE3}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14 Ternary Operators", "14 Ternary Operators\14 Ternary Operators.csproj", "{61560210-C60D-4764-874A-8B684346CC44}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15 Precedence of Operators", "15 Precedence of Operators\15 Precedence of Operators.csproj", "{DD373408-C1C9-45BE-9ADC-E7E0E12BFF05}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7 Statements Expression", "7 Statements Expression\7 Statements Expression.csproj", "{47F1839B-0339-419E-BE9A-A6399AF898AD}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8 Arithmetic Operators", "8 Arithmetic Operators\8 Arithmetic Operators.csproj", "{F1F36986-336A-4D28-A7AF-1A38826C7823}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3E2EF7ED-36A7-48E9-954E-404559EF26AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3E2EF7ED-36A7-48E9-954E-404559EF26AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3E2EF7ED-36A7-48E9-954E-404559EF26AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3E2EF7ED-36A7-48E9-954E-404559EF26AC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{812ED830-AB81-4A8F-A6A5-1048FE72FEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{812ED830-AB81-4A8F-A6A5-1048FE72FEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{812ED830-AB81-4A8F-A6A5-1048FE72FEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{812ED830-AB81-4A8F-A6A5-1048FE72FEE3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{61560210-C60D-4764-874A-8B684346CC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{61560210-C60D-4764-874A-8B684346CC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{61560210-C60D-4764-874A-8B684346CC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{61560210-C60D-4764-874A-8B684346CC44}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DD373408-C1C9-45BE-9ADC-E7E0E12BFF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DD373408-C1C9-45BE-9ADC-E7E0E12BFF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DD373408-C1C9-45BE-9ADC-E7E0E12BFF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DD373408-C1C9-45BE-9ADC-E7E0E12BFF05}.Release|Any CPU.Build.0 = Release|Any CPU
-		{47F1839B-0339-419E-BE9A-A6399AF898AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{47F1839B-0339-419E-BE9A-A6399AF898AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{47F1839B-0339-419E-BE9A-A6399AF898AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{47F1839B-0339-419E-BE9A-A6399AF898AD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F1F36986-336A-4D28-A7AF-1A38826C7823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F1F36986-336A-4D28-A7AF-1A38826C7823}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F1F36986-336A-4D28-A7AF-1A38826C7823}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F1F36986-336A-4D28-A7AF-1A38826C7823}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

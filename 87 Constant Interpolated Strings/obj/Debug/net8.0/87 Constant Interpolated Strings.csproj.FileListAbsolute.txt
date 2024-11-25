@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\87 Constant Interpolated Strings\bin\Debug\net8.0\87 Constant Interpolated Strings.exe
+C:\Users\Yash.gupta\Desktop\C#\87 Constant Interpolated Strings\bin\Debug\net8.0\87 Constant Interpolated Strings.deps.json
+C:\Users\Yash.gupta\Desktop\C#\87 Constant Interpolated Strings\bin\Debug\net8.0\87 Constant Interpolated Strings.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\87 Constant Interpolated Strings\bin\Debug\net8.0\87 Constant Interpolated Strings.dll
+C:\Users\Yash.gupta\Desktop\C#\87 Constant Interpolated Strings\bin\Debug\net8.0\87 Constant Interpolated Strings.pdb
+C:\Users\Yash.gupta\Desktop\C#\87 Constant Interpolated Strings\obj\Debug\net8.0\87 Constant Interpolated Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\87 Constant Interpolated Strings\obj\Debug\net8.0\87 Constant Interpolated Strings.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\87 Constant Interpolated Strings\obj\Debug\net8.0\87 Constant Interpolated Strings.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\87 Constant Interpolated Strings\obj\Debug\net8.0\87 Constant Interpolated Strings.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\87 Constant Interpolated Strings\obj\Debug\net8.0\87 Constant Interpolated Strings.dll
+C:\Users\Yash.gupta\Desktop\C#\87 Constant Interpolated Strings\obj\Debug\net8.0\refint\87 Constant Interpolated Strings.dll
+C:\Users\Yash.gupta\Desktop\C#\87 Constant Interpolated Strings\obj\Debug\net8.0\87 Constant Interpolated Strings.pdb
+C:\Users\Yash.gupta\Desktop\C#\87 Constant Interpolated Strings\obj\Debug\net8.0\87 Constant Interpolated Strings.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\87 Constant Interpolated Strings\obj\Debug\net8.0\ref\87 Constant Interpolated Strings.dll

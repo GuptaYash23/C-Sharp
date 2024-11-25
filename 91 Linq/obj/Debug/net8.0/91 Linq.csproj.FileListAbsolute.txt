@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\L\C#\91 Linq\obj\Debug\net8.0\91 Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\L\C#\91 Linq\obj\Debug\net8.0\91 Linq.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\L\C#\91 Linq\obj\Debug\net8.0\91 Linq.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\L\C#\91 Linq\obj\Debug\net8.0\91 Linq.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\L\C#\91 Linq\bin\Debug\net8.0\91 Linq.exe
+C:\Users\Yash.gupta\Desktop\L\C#\91 Linq\bin\Debug\net8.0\91 Linq.deps.json
+C:\Users\Yash.gupta\Desktop\L\C#\91 Linq\bin\Debug\net8.0\91 Linq.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\L\C#\91 Linq\bin\Debug\net8.0\91 Linq.dll
+C:\Users\Yash.gupta\Desktop\L\C#\91 Linq\bin\Debug\net8.0\91 Linq.pdb
+C:\Users\Yash.gupta\Desktop\L\C#\91 Linq\obj\Debug\net8.0\91 Linq.dll
+C:\Users\Yash.gupta\Desktop\L\C#\91 Linq\obj\Debug\net8.0\refint\91 Linq.dll
+C:\Users\Yash.gupta\Desktop\L\C#\91 Linq\obj\Debug\net8.0\91 Linq.pdb
+C:\Users\Yash.gupta\Desktop\L\C#\91 Linq\obj\Debug\net8.0\91 Linq.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\L\C#\91 Linq\obj\Debug\net8.0\ref\91 Linq.dll

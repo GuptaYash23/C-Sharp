@@ -22,5 +22,7 @@ class Program
         // Postfix decrement
         y = x--; // y is 6, x is now 5
         Console.WriteLine($"Postfix Decrement: x = {x}, y = {y}");   // Postfix Decrement: x = 5, y = 6
+
+        Console.ReadLine();
     }
 }

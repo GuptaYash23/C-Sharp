@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "87 Constant Interpolated Strings/1.0.0": {
+        "runtime": {
+          "87 Constant Interpolated Strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "87 Constant Interpolated Strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

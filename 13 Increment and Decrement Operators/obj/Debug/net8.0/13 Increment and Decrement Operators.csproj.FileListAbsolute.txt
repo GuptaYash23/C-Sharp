@@ -1,0 +1,14 @@
+C:\Users\Yash.gupta\Desktop\C#\13 Increment and Decrement Operators\bin\Debug\net8.0\13 Increment and Decrement Operators.exe
+C:\Users\Yash.gupta\Desktop\C#\13 Increment and Decrement Operators\bin\Debug\net8.0\13 Increment and Decrement Operators.deps.json
+C:\Users\Yash.gupta\Desktop\C#\13 Increment and Decrement Operators\bin\Debug\net8.0\13 Increment and Decrement Operators.runtimeconfig.json
+C:\Users\Yash.gupta\Desktop\C#\13 Increment and Decrement Operators\bin\Debug\net8.0\13 Increment and Decrement Operators.dll
+C:\Users\Yash.gupta\Desktop\C#\13 Increment and Decrement Operators\bin\Debug\net8.0\13 Increment and Decrement Operators.pdb
+C:\Users\Yash.gupta\Desktop\C#\13 Increment and Decrement Operators\obj\Debug\net8.0\13 Increment and Decrement Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash.gupta\Desktop\C#\13 Increment and Decrement Operators\obj\Debug\net8.0\13 Increment and Decrement Operators.AssemblyInfoInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\13 Increment and Decrement Operators\obj\Debug\net8.0\13 Increment and Decrement Operators.AssemblyInfo.cs
+C:\Users\Yash.gupta\Desktop\C#\13 Increment and Decrement Operators\obj\Debug\net8.0\13 Increment and Decrement Operators.csproj.CoreCompileInputs.cache
+C:\Users\Yash.gupta\Desktop\C#\13 Increment and Decrement Operators\obj\Debug\net8.0\13 Increment and Decrement Operators.dll
+C:\Users\Yash.gupta\Desktop\C#\13 Increment and Decrement Operators\obj\Debug\net8.0\refint\13 Increment and Decrement Operators.dll
+C:\Users\Yash.gupta\Desktop\C#\13 Increment and Decrement Operators\obj\Debug\net8.0\13 Increment and Decrement Operators.pdb
+C:\Users\Yash.gupta\Desktop\C#\13 Increment and Decrement Operators\obj\Debug\net8.0\13 Increment and Decrement Operators.genruntimeconfig.cache
+C:\Users\Yash.gupta\Desktop\C#\13 Increment and Decrement Operators\obj\Debug\net8.0\ref\13 Increment and Decrement Operators.dll

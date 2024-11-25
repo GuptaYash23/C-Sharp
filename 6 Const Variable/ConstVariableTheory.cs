@@ -52,7 +52,7 @@ While the reference to the object itself cannot be changed once it is assigned, 
 
 Example of readonly in C#:
 
------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 public class Example
 {
     public readonly Dictionary<string, int> MyDictionary;
@@ -73,7 +73,7 @@ public class Example
         MyDictionary["Key2"] = 300;   // Adding a new key-value pair
     }
 }
------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 
 Explanation:
 
